@@ -1,0 +1,8 @@
+Navigation at 320px passed on 11 pages.
+Navigation at 375px passed on 11 pages.
+Navigation at 768px passed on 11 pages.
+Navigation at 991px passed on 11 pages.
+Navigation at 992px passed on 11 pages.
+Navigation at 1440px passed on 11 pages.
+Cross-page selection, resize focus and service navigation passed.
+Reduced motion and navigation without JavaScript passed.

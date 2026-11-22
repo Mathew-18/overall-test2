@@ -1,0 +1,4868 @@
+{
+  "index.html": {
+    "sections": [
+      {
+        "id": "hero",
+        "classes": "hero",
+        "texts": [
+          "15+ Years of Excellence in Chennai",
+          "Building Timeless",
+          "Spaces with",
+          "Precision",
+          "& Passion",
+          "Premium construction, renovation & interior solutions — false ceilings, glass partitions, vinyl flooring and more, delivered on time with uncompromising quality.",
+          "Get Free Quote",
+          "View Projects",
+          "15",
+          "+",
+          "Years Exp",
+          "250",
+          "+",
+          "Projects",
+          "180",
+          "+",
+          "Happy Clients",
+          "250+",
+          "Projects Completed",
+          "4.9",
+          "Google Rating"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1920&q=80",
+          "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&q=80",
+          "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=600&q=80"
+        ],
+        "headings": [
+          "Building Timeless Spaces with Precision & Passion",
+          "15+",
+          "250+",
+          "180+",
+          "250+",
+          "4.9"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "about",
+        "classes": "section-pad",
+        "texts": [
+          "About Us",
+          "Crafting Spaces That Inspire",
+          "For over 15 years, DH Construction has been transforming homes and workspaces across Chennai — combining skilled craftsmanship, premium materials, and honest pricing.",
+          "15+ years of hands-on industry experience",
+          "Skilled in-house team of engineers & designers",
+          "Premium materials with warranty backing",
+          "On-time delivery with transparent pricing",
+          "Our Mission",
+          "To build timeless spaces with precision and passion — delivering quality that exceeds expectations on every single project.",
+          "Know More About Us"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=600&q=80",
+          "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=600&q=80",
+          "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=600&q=80"
+        ],
+        "headings": [
+          "Crafting Spaces That Inspire",
+          "Our Mission"
+        ],
+        "reveals": [
+          "fade-right",
+          "fade-left"
+        ]
+      },
+      {
+        "id": null,
+        "classes": "stats-strip section-pad-sm",
+        "texts": [
+          "0",
+          "+",
+          "Years Experience",
+          "0",
+          "+",
+          "Projects Done",
+          "0",
+          "+",
+          "Happy Clients",
+          "0",
+          "+",
+          "Team Experts"
+        ],
+        "images": [],
+        "headings": [
+          "0+",
+          "0+",
+          "0+",
+          "0+"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "services",
+        "classes": "section-pad",
+        "texts": [
+          "What We Do",
+          "Our Services",
+          "End-to-end construction and interior solutions under one roof.",
+          "01",
+          "False Ceiling",
+          "Stylish gypsum, POP and grid ceilings that elevate any room with clean lines and perfect lighting integration.",
+          "Learn More",
+          "02",
+          "Glass Partitions",
+          "Sleek frameless and framed glass partitions for offices and homes — light-filled, modern and space-efficient.",
+          "Learn More",
+          "03",
+          "Vinyl Flooring",
+          "Durable, water-resistant and elegant vinyl flooring in a wide range of wood and stone finishes.",
+          "Learn More",
+          "04",
+          "Renovation",
+          "Complete home and office makeovers — from structural repairs to finishing touches, handled end to end.",
+          "Learn More",
+          "05",
+          "Interior Design",
+          "Bespoke interiors designed around your lifestyle — modular kitchens, wardrobes, lighting and more.",
+          "Learn More",
+          "06",
+          "Painting & Finishing",
+          "Premium interior and exterior painting with flawless preparation, putty and weather-proof coats.",
+          "Learn More"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&q=80",
+          "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&q=80",
+          "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=600&q=80",
+          "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=600&q=80",
+          "https://images.unsplash.com/photo-1615873968403-89e068629265?w=600&q=80",
+          "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=600&q=80"
+        ],
+        "headings": [
+          "Our Services",
+          "False Ceiling",
+          "Glass Partitions",
+          "Vinyl Flooring",
+          "Renovation",
+          "Interior Design",
+          "Painting & Finishing"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "projects",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Our Work",
+          "Recent Projects",
+          "A glimpse of the spaces we've transformed across Chennai.",
+          "Residential",
+          "Luxury Villa — OMR",
+          "Chennai",
+          "2024",
+          "Commercial",
+          "Tech Office — Tidel Park",
+          "Chennai",
+          "2024",
+          "Interior",
+          "3BHK Apartment — Pallavaram",
+          "Chennai",
+          "2023",
+          "View All Projects"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=700&q=80",
+          "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=700&q=80",
+          "https://images.unsplash.com/photo-1600121848594-d8644e57abab?w=700&q=80"
+        ],
+        "headings": [
+          "Recent Projects",
+          "Luxury Villa — OMR",
+          "Tech Office — Tidel Park",
+          "3BHK Apartment — Pallavaram"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": null,
+        "classes": "section-pad",
+        "texts": [
+          "Why Choose Us",
+          "Built on Trust & Quality",
+          "Quality Assured",
+          "Only branded, certified materials with warranty on every job.",
+          "On-Time Delivery",
+          "Clear timelines and daily progress updates — no delays.",
+          "Transparent Pricing",
+          "Detailed, itemised quotes. No hidden costs, ever.",
+          "Expert Team",
+          "Experienced engineers, designers and skilled craftsmen."
+        ],
+        "images": [],
+        "headings": [
+          "Built on Trust & Quality",
+          "Quality Assured",
+          "On-Time Delivery",
+          "Transparent Pricing",
+          "Expert Team"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "gallery",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Gallery",
+          "Our Work in Pictures",
+          "All",
+          "False Ceiling",
+          "Interiors",
+          "Flooring",
+          "Gypsum Ceiling",
+          "Living Room",
+          "Vinyl Flooring",
+          "Bedroom Design",
+          "Cove Lighting",
+          "Wood Finish Floor"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&q=80",
+          "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=600&q=80",
+          "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=600&q=80",
+          "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=600&q=80",
+          "https://images.unsplash.com/photo-1615873968403-89e068629265?w=600&q=80",
+          "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&q=80"
+        ],
+        "headings": [
+          "Our Work in Pictures"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": null,
+        "classes": "section-pad",
+        "texts": [
+          "Testimonials",
+          "What Our Clients Say",
+          "\"DH Construction renovated our entire flat — false ceiling, flooring and painting. Finished ahead of schedule and the finishing is flawless. Highly recommended!\"",
+          "Ramesh Kumar",
+          "Pallavaram, Chennai",
+          "\"They handled our office glass partitions and interiors professionally. Transparent pricing and daily updates made the whole process stress-free.\"",
+          "Priya Sharma",
+          "Tambaram, Chennai",
+          "\"Best decision was choosing DH for our new home interiors. The modular kitchen and wardrobes are exactly what we dreamed of. Worth every rupee!\"",
+          "Arun Prakash",
+          "Chengalpattu"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80",
+          "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80",
+          "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&q=80"
+        ],
+        "headings": [
+          "What Our Clients Say",
+          "Ramesh Kumar",
+          "Priya Sharma",
+          "Arun Prakash"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": null,
+        "classes": "section-pad-sm",
+        "texts": [
+          "Process",
+          "How We Work",
+          "Consultation",
+          "Free site visit & requirement discussion",
+          "Design & Quote",
+          "Detailed design, 3D views & itemised quote",
+          "Execution",
+          "Skilled team executes with daily updates",
+          "Handover",
+          "Quality check, cleanup & on-time handover"
+        ],
+        "images": [],
+        "headings": [
+          "How We Work",
+          "Consultation",
+          "Design & Quote",
+          "Execution",
+          "Handover"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": null,
+        "classes": "section-pad",
+        "texts": [
+          "Coverage",
+          "Areas We Serve",
+          "Proudly serving homes and businesses across Chennai & nearby.",
+          "Pallavaram",
+          "Chennai",
+          "Tambaram",
+          "Chennai",
+          "Chengalpattu",
+          "Tamil Nadu",
+          "Velachery",
+          "Chennai",
+          "OMR",
+          "Chennai",
+          "Medavakkam",
+          "Chennai"
+        ],
+        "images": [],
+        "headings": [
+          "Areas We Serve",
+          "Pallavaram",
+          "Tambaram",
+          "Chengalpattu",
+          "Velachery",
+          "OMR",
+          "Medavakkam"
+        ],
+        "reveals": [
+          "fade-up",
+          "zoom-in",
+          "zoom-in",
+          "zoom-in",
+          "zoom-in",
+          "zoom-in",
+          "zoom-in"
+        ]
+      },
+      {
+        "id": null,
+        "classes": "section-pad-sm",
+        "texts": [
+          "FAQ",
+          "Common Questions",
+          "Can't find your answer? Call us — we're happy to help.",
+          "+91 90423 56696",
+          "What services does DH Construction offer?",
+          "We offer complete construction, renovation and interior solutions — false ceilings, glass partitions, vinyl flooring, painting, modular kitchens, wardrobes and full home/office makeovers.",
+          "Do you provide free quotes and site visits?",
+          "Yes! Site visits, measurements and detailed itemised quotes are completely free within our service areas in and around Chennai.",
+          "Which areas do you serve?",
+          "We serve Pallavaram, Tambaram, Chengalpattu, Velachery, OMR, Medavakkam and surrounding areas across Chennai.",
+          "How long does a typical renovation take?",
+          "A standard 2BHK renovation takes 30–45 days, while single services like false ceiling or flooring take 5–10 days. We share a clear timeline before starting.",
+          "Do you offer warranty on your work?",
+          "Yes, we provide workmanship warranty on all projects along with manufacturer warranties on branded materials used."
+        ],
+        "images": [],
+        "headings": [
+          "Common Questions",
+          "What services does DH Construction offer?",
+          "Do you provide free quotes and site visits?",
+          "Which areas do you serve?",
+          "How long does a typical renovation take?",
+          "Do you offer warranty on your work?"
+        ],
+        "reveals": [
+          "fade-right",
+          "fade-left"
+        ]
+      },
+      {
+        "id": null,
+        "classes": "cta-sec section-pad-sm",
+        "texts": [
+          "Ready to Build Your Dream Space?",
+          "Get a free consultation and no-obligation quote today. Let's turn your vision into reality — with precision and passion.",
+          "Get Free Consultation"
+        ],
+        "images": [],
+        "headings": [
+          "Ready to Build Your Dream Space?"
+        ],
+        "reveals": [
+          "fade-up"
+        ]
+      },
+      {
+        "id": "contact",
+        "classes": "section-pad",
+        "texts": [
+          "Contact Us",
+          "Let's Talk About Your Project",
+          "Call Us",
+          "+91 90423 56696",
+          "Mon – Sat, 9:00 AM – 7:00 PM",
+          "WhatsApp",
+          "Chat with us instantly",
+          "Email Us",
+          "info@dhconstruction.in",
+          "Visit Us",
+          "Pallavaram, Chennai,",
+          "Tamil Nadu, India",
+          "Request a Free Quote",
+          "Fill the form & we'll get back within 24 hours.",
+          "Your Name *",
+          "Phone Number *",
+          "Service Needed *",
+          "Select a service",
+          "False Ceiling",
+          "Glass Partitions",
+          "Vinyl Flooring",
+          "Renovation",
+          "Interior Design",
+          "Painting & Finishing",
+          "Other",
+          "Project Details",
+          "Send Request",
+          "Pallavaram",
+          "Tambaram",
+          "Chengalpattu",
+          "OMR"
+        ],
+        "images": [],
+        "headings": [
+          "Let's Talk About Your Project",
+          "Call Us",
+          "WhatsApp",
+          "Email Us",
+          "Visit Us",
+          "Request a Free Quote"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-right",
+          "fade-left"
+        ]
+      }
+    ],
+    "previous_export_sections": 7,
+    "canvases": [],
+    "keyframes": [
+      "badgeFloat",
+      "ddFade",
+      "heroKen",
+      "revealLine",
+      "sInR",
+      "sUp",
+      "waPulse"
+    ],
+    "counters": [
+      "15",
+      "250",
+      "180",
+      "40"
+    ],
+    "photo_placements": [
+      [
+        "hero-bg",
+        "DH Construction Villa"
+      ],
+      [
+        "hv-main",
+        "Modern interior"
+      ],
+      [
+        "hv-accent",
+        "Interior detail"
+      ],
+      [
+        "about-img about-img-tall",
+        "Construction site"
+      ],
+      [
+        "about-img about-img-short",
+        "Living room"
+      ],
+      [
+        "about-img about-img-short",
+        "Kitchen"
+      ],
+      [
+        "svc-card-img",
+        "False ceiling"
+      ],
+      [
+        "svc-card-img",
+        "Glass partitions"
+      ],
+      [
+        "svc-card-img",
+        "Vinyl flooring"
+      ],
+      [
+        "svc-card-img",
+        "Renovation"
+      ],
+      [
+        "svc-card-img",
+        "Interior design"
+      ],
+      [
+        "svc-card-img",
+        "Painting"
+      ],
+      [
+        "proj-img",
+        "Luxury villa"
+      ],
+      [
+        "proj-img",
+        "Office interior"
+      ],
+      [
+        "proj-img",
+        "Apartment interior"
+      ],
+      [
+        "col-md-4 gal-item",
+        "False ceiling work"
+      ],
+      [
+        "col-md-4 gal-item",
+        "Living room"
+      ],
+      [
+        "col-md-4 gal-item",
+        "Vinyl floor"
+      ],
+      [
+        "col-md-4 gal-item",
+        "Bedroom interior"
+      ],
+      [
+        "col-md-4 gal-item",
+        "Ceiling lights"
+      ],
+      [
+        "col-md-4 gal-item",
+        "Flooring"
+      ],
+      [
+        "testi-author",
+        "Client"
+      ],
+      [
+        "testi-author",
+        "Client"
+      ],
+      [
+        "testi-author",
+        "Client"
+      ]
+    ]
+  },
+  "about/about.html": {
+    "sections": [
+      {
+        "id": "hero",
+        "classes": "hero",
+        "texts": [
+          "Trusted Since 2009 — Chennai, Tamil Nadu",
+          "Building Trust,",
+          "Delivering",
+          "Excellence",
+          "in Every Renovation",
+          "For over 15 years, DH Construction has been the name Chennai homeowners and businesses trust for quality renovation, remodeling, and restoration — on time, on budget, every time.",
+          "Our Story",
+          "Call: 90423 56696",
+          "15",
+          "+",
+          "Years Legacy",
+          "200",
+          "+",
+          "Projects Done",
+          "50",
+          "+",
+          "Skilled Workers",
+          "98",
+          "%",
+          "Client Retention"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1920&q=80"
+        ],
+        "headings": [
+          "Building Trust, Delivering Excellence in Every Renovation",
+          "15+",
+          "200+",
+          "50+",
+          "98%"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "about-story",
+        "classes": "section-pad",
+        "texts": [
+          "Our Story",
+          "From Humble Beginnings to Chennai's Trusted Renovator",
+          "DH Construction was founded in 2009 with a simple belief: every space deserves to be transformed with care, precision, and respect for the people who live or work in it. What started as a small team handling residential repairs has grown into one of Chennai's most reliable renovation companies.",
+          "Our founder, driven by a passion for quality craftsmanship, built the company on the principles of transparency, integrity, and an unwavering commitment to deadlines. Over the years, we've expanded our capabilities — from kitchen and bathroom remodels to complete commercial buildouts — but our core values have never changed.",
+          "\"We don't just renovate buildings — we renew the way people experience their spaces. Every project is personal to us.\"",
+          "— Founder, DH Construction",
+          "Started with a 3-member team in 2009",
+          "Completed 200+ renovation projects across Chennai",
+          "Built a 50+ skilled workforce across all trades",
+          "Expanded from residential to commercial renovation",
+          "Maintained 98% client satisfaction rate consistently",
+          "Trusted by repeat clients and word-of-mouth referrals"
+        ],
+        "images": [],
+        "headings": [
+          "From Humble Beginnings to Chennai's Trusted Renovator"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "mission-vision",
+        "classes": "section-pad-sm",
+        "texts": [
+          "What Drives Us",
+          "Our Mission & Vision",
+          "Clear purpose and a bold vision guide every hammer swing, every tile laid, and every wall we transform.",
+          "Our Mission",
+          "To deliver exceptional renovation and remodeling services that exceed client expectations — combining skilled craftsmanship, premium materials, and transparent project management. We aim to make the renovation process smooth, stress-free, and rewarding for every homeowner and business in Chennai.",
+          "Our Vision",
+          "To become the most trusted and sought-after renovation company in South India — known not just for the quality of our work, but for the integrity of our process. We envision a future where every DH Construction project becomes a lasting testament to what happens when expertise meets genuine care."
+        ],
+        "images": [],
+        "headings": [
+          "Our Mission & Vision",
+          "Our Mission",
+          "Our Vision"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "values",
+        "classes": "section-pad",
+        "texts": [
+          "Our Foundation",
+          "Core Values That Define Us",
+          "These aren't just words on a wall — they're the principles every team member lives by on every project site.",
+          "01",
+          "Integrity First",
+          "Honest pricing, clear communication, and no hidden costs — ever. We earn trust through transparency.",
+          "02",
+          "Quality Craft",
+          "We never cut corners. Every detail — from tile alignment to paint finish — meets our exacting standards.",
+          "03",
+          "On-Time Delivery",
+          "We respect your time. Detailed planning and dedicated supervision ensure every project finishes on schedule.",
+          "04",
+          "Client-Centric",
+          "Your vision drives our work. We listen, adapt, and ensure the final result feels like yours — not ours.",
+          "05",
+          "Safety Always",
+          "Rigorous safety protocols protect our workers, your family, and your property throughout every project.",
+          "06",
+          "Sustainable Practices",
+          "We minimize waste, use eco-friendly materials where possible, and dispose of debris responsibly.",
+          "07",
+          "Continuous Learning",
+          "Our team stays updated with the latest techniques, materials, and design trends through ongoing training.",
+          "08",
+          "Team Respect",
+          "We value every worker — from masons to managers. Fair treatment builds the team that builds your dream."
+        ],
+        "images": [],
+        "headings": [
+          "Core Values That Define Us",
+          "Integrity First",
+          "Quality Craft",
+          "On-Time Delivery",
+          "Client-Centric",
+          "Safety Always",
+          "Sustainable Practices",
+          "Continuous Learning",
+          "Team Respect"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "journey",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Our Journey",
+          "Milestones That Shaped Us",
+          "From a small startup to Chennai's trusted renovation partner — every year added a new chapter to our story of growth, learning, and delivering excellence.",
+          "Be Part of Our Story",
+          "2009",
+          "The Beginning",
+          "Founded in Chennai",
+          "Started with a 3-member team focusing on residential repairs and minor renovations in and around Chennai city.",
+          "2012",
+          "Growth Phase",
+          "Team Expanded to 15+",
+          "Word-of-mouth reputation brought consistent work. Added kitchen and bathroom renovation as specialized services.",
+          "2015",
+          "Diversification",
+          "Entered Commercial Renovation",
+          "Expanded into office, retail, and restaurant remodeling. Completed our first 50-project milestone.",
+          "2018",
+          "Scaling Up",
+          "100+ Projects Completed",
+          "Built a dedicated project management system. Workforce grew to 35+ skilled tradespeople across all disciplines.",
+          "2021",
+          "Modernization",
+          "Adopted Smart Tech & Eco Practices",
+          "Integrated project tracking software for clients. Embraced green building materials and sustainable waste disposal methods.",
+          "2024",
+          "Industry Leader",
+          "200+ Projects & 50+ Team Members",
+          "Recognized as a top renovation firm in Chennai. Expanded capabilities to handle large-scale commercial and residential transformations."
+        ],
+        "images": [],
+        "headings": [
+          "Milestones That Shaped Us",
+          "Founded in Chennai",
+          "Team Expanded to 15+",
+          "Entered Commercial Renovation",
+          "100+ Projects Completed",
+          "Adopted Smart Tech & Eco Practices",
+          "200+ Projects & 50+ Team Members"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "stats",
+        "classes": "stats-sec section-pad-sm",
+        "texts": [
+          "15",
+          "+",
+          "Years of Excellence",
+          "200",
+          "+",
+          "Projects Completed",
+          "50",
+          "+",
+          "Expert Team Members",
+          "98",
+          "%",
+          "Client Satisfaction"
+        ],
+        "images": [],
+        "headings": [],
+        "reveals": []
+      },
+      {
+        "id": "why-us",
+        "classes": "section-pad",
+        "texts": [
+          "Why Choose Us",
+          "The DH Construction Difference",
+          "We don't just promise quality — we engineer it into every phase of your project.",
+          "Uncompromising Quality",
+          "We use premium materials and employ skilled artisans who take pride in their craft. Every detail is inspected to ensure perfection.",
+          "On-Time, On-Budget",
+          "Our rigorous project management ensures your renovation stays on schedule and within the agreed budget — no surprises.",
+          "Transparent Communication",
+          "You'll never be left wondering. We provide regular updates, clear timelines, and honest answers throughout the process.",
+          "Design-Build Efficiency",
+          "Our integrated design and construction team streamlines the process, saving you time and reducing coordination headaches.",
+          "Eco-Friendly Practices",
+          "We prioritize sustainable materials, minimize waste, and ensure responsible disposal for a greener renovation experience.",
+          "Proven Track Record",
+          "With 200+ successful projects and a 98% satisfaction rate, our work speaks for itself. Your dream space is in safe hands."
+        ],
+        "images": [],
+        "headings": [
+          "The DH Construction Difference",
+          "Uncompromising Quality",
+          "On-Time, On-Budget",
+          "Transparent Communication",
+          "Design-Build Efficiency",
+          "Eco-Friendly Practices",
+          "Proven Track Record"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "team",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Our Team",
+          "Meet The Experts",
+          "Behind every successful project is a dedicated team of professionals committed to excellence.",
+          "DH",
+          "D. Hariharan",
+          "Founder & CEO",
+          "Visionary leader with 15+ years in construction management and client relations.",
+          "RS",
+          "Rajesh S",
+          "Project Director",
+          "Ensures seamless execution, on-time delivery, and strict quality control on-site.",
+          "AP",
+          "Anita P",
+          "Lead Architect",
+          "Transforms client ideas into functional, beautiful designs that maximize space potential.",
+          "VK",
+          "Vijay K",
+          "Operations Manager",
+          "Coordinates resources, logistics, and vendor relationships for smooth project flow."
+        ],
+        "images": [],
+        "headings": [
+          "Meet The Experts",
+          "D. Hariharan",
+          "Rajesh S",
+          "Anita P",
+          "Vijay K"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "cta",
+        "classes": "cta-sec section-pad-sm",
+        "texts": [
+          "Ready to Transform Your Space?",
+          "Let's discuss your vision. Our team is ready to bring your renovation dreams to life with quality, clarity, and care.",
+          "Call: 90423 56696",
+          "WhatsApp Us"
+        ],
+        "images": [],
+        "headings": [
+          "Ready to Transform Your Space?"
+        ],
+        "reveals": []
+      }
+    ],
+    "previous_export_sections": 4,
+    "canvases": [
+      "heroCanvas"
+    ],
+    "keyframes": [
+      "fShape",
+      "gridDrift",
+      "rSlow",
+      "revLine",
+      "sUp",
+      "sweepRot",
+      "waPulse"
+    ],
+    "counters": [],
+    "photo_placements": [
+      [
+        "hero-bg",
+        "About DH Construction"
+      ]
+    ]
+  },
+  "services/All_services.html": {
+    "sections": [
+      {
+        "id": "hero",
+        "classes": "hero",
+        "texts": [
+          "8 Specialized Renovation Services",
+          "Comprehensive",
+          "Services",
+          "Under One Roof",
+          "From kitchen makeovers to complete building transformations — we offer end-to-end renovation solutions with skilled professionals, premium materials, and guaranteed timelines.",
+          "Get Free Quote",
+          "8",
+          "+",
+          "Service Categories",
+          "200",
+          "+",
+          "Projects Delivered",
+          "50",
+          "+",
+          "Skilled Workers",
+          "100",
+          "%",
+          "In-House Team"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?w=1920&q=80"
+        ],
+        "headings": [
+          "Comprehensive Services Under One Roof",
+          "8+",
+          "200+",
+          "50+",
+          "100%"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "detailed",
+        "classes": "section-pad-sm",
+        "texts": [
+          "In Detail",
+          "What Each Service Includes",
+          "Transparency in scope — know exactly what you get when you choose DH Construction for your renovation.",
+          "Full Home Renovation",
+          "Complete transformation of your existing home — structural changes, new layouts, modern finishes, and everything in between.",
+          "Structural modifications & wall changes",
+          "Complete rewiring & plumbing overhaul",
+          "New flooring, painting & false ceilings",
+          "Door & window replacement",
+          "Exterior facade improvement",
+          "Get Quote for Home Renovation",
+          "Kitchen Renovation",
+          "Modern, functional kitchens designed around your cooking habits — with premium materials and smart storage solutions.",
+          "Modular cabinetry (L-shape, U-shape, parallel)",
+          "Granite / Quartz / Italian marble countertops",
+          "Chimney, hob & built-in oven installation",
+          "LED under-cabinet & task lighting",
+          "Plumbing & electrical for appliances",
+          "Get Quote for Kitchen Remodel",
+          "Bathroom Renovation",
+          "Transform outdated bathrooms into spa-like retreats with quality tiles, fixtures, and leak-proof plumbing systems.",
+          "Designer wall & floor tiling",
+          "Rain shower, health faucet & premium fittings",
+          "Vanity units with storage",
+          "Concealed plumbing & waterproofing",
+          "Exhaust fan & ventilation setup",
+          "Get Quote for Bathroom Renovation",
+          "Commercial Renovation",
+          "Office fit-outs, restaurant interiors, retail spaces — designed for functionality, brand identity, and customer experience.",
+          "Space planning & partition walls",
+          "Modular workstations & cabinetry",
+          "Conference rooms & pantry areas",
+          "Commercial-grade electrical & HVAC support",
+          "Fire safety compliance work",
+          "Get Quote for Commercial Renovation",
+          "Interior Redesign",
+          "Fresh interiors that breathe new life into your space — without the cost of a full structural renovation.",
+          "False ceiling with cove & ambient lighting",
+          "Premium wall painting & texture finishes",
+          "TV units, wardrobes & custom furniture",
+          "Feature walls, wallpaper & paneling",
+          "Curtain & blind fixtures",
+          "Get Quote for Interior Redesign",
+          "Flooring & Tiling",
+          "Upgrade your floors with premium materials — from classic vitrified tiles to luxurious marble and modern vinyl.",
+          "Vitrified, ceramic & porcelain tiles",
+          "Granite, marble & Kota stone laying",
+          "Luxury vinyl & wooden laminate flooring",
+          "Epoxy & polished concrete finishes",
+          "Skirting, grooves & threshold detailing",
+          "Get Quote for Flooring",
+          "Electrical & Plumbing",
+          "Complete overhaul of hidden systems — safe wiring, leak-proof plumbing, and modern fixture upgrades.",
+          "Full house rewiring with safe circuits",
+          "MCB / DB box upgrade & distribution",
+          "Complete plumbing pipe replacement",
+          "Water heater, pump & purifier installation",
+          "Switch, socket & fixture upgrades",
+          "Get Quote for Electrical & Plumbing",
+          "Doors & Windows",
+          "Replace old, worn-out doors and windows with modern, secure, and energy-efficient options.",
+          "Teak wood, flush & laminate doors",
+          "UPVC & aluminum sliding windows",
+          "Safety grills & mesh shutters",
+          "Main door with security lock systems",
+          "Frame replacement & alignment correction",
+          "Get Quote for Doors & Windows"
+        ],
+        "images": [],
+        "headings": [
+          "What Each Service Includes",
+          "Full Home Renovation",
+          "Kitchen Renovation",
+          "Bathroom Renovation",
+          "Commercial Renovation",
+          "Interior Redesign",
+          "Flooring & Tiling",
+          "Electrical & Plumbing",
+          "Doors & Windows"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "highlight",
+        "classes": "section-pad",
+        "texts": [
+          "Most Popular: Complete Home Renovation",
+          "Our flagship service — a full-scale transformation that covers every aspect of your home. From structural changes to the final coat of paint, we handle it all with a single point of contact, transparent pricing, and guaranteed completion dates.",
+          "85",
+          "+",
+          "Homes Renovated",
+          "30–60",
+          "Days",
+          "Avg. Completion",
+          "₹5L – ₹40L",
+          "Price Range",
+          "What's Included",
+          "Structural Work",
+          "Flooring",
+          "Painting",
+          "False Ceiling",
+          "Electrical",
+          "Plumbing",
+          "Kitchen",
+          "Bathrooms",
+          "Doors",
+          "Windows",
+          "Exterior",
+          "Cleanup"
+        ],
+        "images": [],
+        "headings": [
+          "Most Popular: Complete Home Renovation",
+          "85+",
+          "30–60 Days",
+          "₹5L – ₹40L"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "why",
+        "classes": "section-pad",
+        "texts": [
+          "The DH Advantage",
+          "Why Choose Our Services",
+          "We don't just offer services — we deliver a renovation experience built on trust, quality, and accountability.",
+          "100% In-House Team",
+          "No subcontractors — our own skilled workers handle every task with accountability.",
+          "Fixed-Price Contracts",
+          "Quoted price is final price. No surprise charges, no budget overruns.",
+          "Daily Progress Updates",
+          "Photos and reports sent daily so you're always in the loop.",
+          "Workmanship Warranty",
+          "Every project comes with a warranty for peace of mind after handover.",
+          "Premium Materials",
+          "We source from trusted brands — you choose the quality level.",
+          "On-Time Delivery",
+          "Detailed scheduling ensures we finish on or before the promised date.",
+          "Clean Handover",
+          "Site is fully cleaned before you move in — no debris, no dust.",
+          "Post-Project Support",
+          "Need a touch-up after handover? We're just a call away."
+        ],
+        "images": [],
+        "headings": [
+          "Why Choose Our Services",
+          "100% In-House Team",
+          "Fixed-Price Contracts",
+          "Daily Progress Updates",
+          "Workmanship Warranty",
+          "Premium Materials",
+          "On-Time Delivery",
+          "Clean Handover",
+          "Post-Project Support"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "process",
+        "classes": "section-pad-sm",
+        "texts": [
+          "How It Works",
+          "Our Service Delivery Process",
+          "Every project follows a structured 6-step process ensuring quality, transparency, and timely delivery.",
+          "01",
+          "Free Consultation",
+          "Site visit & requirement discussion",
+          "02",
+          "Detailed Estimate",
+          "Cost breakup with material specs",
+          "03",
+          "Design & Planning",
+          "Layout, materials & 3D visuals",
+          "04",
+          "Execution",
+          "Skilled team with dedicated supervisor",
+          "05",
+          "Quality Check",
+          "Multi-stage inspection & fixes",
+          "06",
+          "Clean Handover",
+          "Walkthrough, docs & warranty card"
+        ],
+        "images": [],
+        "headings": [
+          "Our Service Delivery Process",
+          "Free Consultation",
+          "Detailed Estimate",
+          "Design & Planning",
+          "Execution",
+          "Quality Check",
+          "Clean Handover"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "cta",
+        "classes": "section-pad cta-sec",
+        "texts": [
+          "Not Sure Which Service You Need?",
+          "No worries — just call us or WhatsApp. We'll understand your requirements and recommend the right service package for your space and budget.",
+          "Call: 90423 56696",
+          "WhatsApp Us"
+        ],
+        "images": [],
+        "headings": [
+          "Not Sure Which Service You Need?"
+        ],
+        "reveals": []
+      }
+    ],
+    "previous_export_sections": 5,
+    "canvases": [
+      "heroCanvas"
+    ],
+    "keyframes": [
+      "fShape",
+      "gridDrift",
+      "rSlow",
+      "revLine",
+      "sUp",
+      "sweepRot",
+      "waPulse"
+    ],
+    "counters": [],
+    "photo_placements": [
+      [
+        "hero-bg",
+        "Renovation Services"
+      ]
+    ]
+  },
+  "Projects/projects.html": {
+    "sections": [
+      {
+        "id": "hero",
+        "classes": "hero",
+        "texts": [
+          "200+ Projects Completed Across Chennai",
+          "Explore Our",
+          "Construction",
+          "Portfolio",
+          "& Success Stories",
+          "From compact kitchen makeovers to full-building transformations — browse through our completed projects and see the quality, creativity, and care we bring to every space.",
+          "View Projects",
+          "Discuss Your Project",
+          "200",
+          "+",
+          "Projects Done",
+          "6",
+          "+",
+          "Categories",
+          "15",
+          "+",
+          "Locations",
+          "98",
+          "%",
+          "On-Time"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1920&q=80"
+        ],
+        "headings": [
+          "Explore Our Construction Portfolio & Success Stories",
+          "200+",
+          "6+",
+          "15+",
+          "98%"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "featured",
+        "classes": "section-pad",
+        "texts": [
+          "Featured Project",
+          "Complete Home Renovation — Anna Nagar, Chennai",
+          "A 2,400 sq.ft. independent house transformed from a 20-year-old structure into a modern living space. The project included complete structural modifications, new electrical and plumbing systems, modular kitchen, 3 bathroom remodels, vitrified flooring throughout, false ceilings with ambient lighting, and a redesigned exterior facade — all completed in 45 days.",
+          "2,400",
+          "sq.ft",
+          "Area Renovated",
+          "45",
+          "Days",
+          "Completion Time",
+          "₹28L",
+          "Total",
+          "Project Value",
+          "2024",
+          "Completed",
+          "Scope of Work",
+          "Structural Changes",
+          "Modular Kitchen",
+          "3 Bathroom Remodels",
+          "Vitrified Flooring",
+          "False Ceiling",
+          "Electrical Rewiring",
+          "Plumbing Overhaul",
+          "Exterior Facade",
+          "Interior Painting",
+          "Door & Window Replace"
+        ],
+        "images": [],
+        "headings": [
+          "Complete Home Renovation — Anna Nagar, Chennai",
+          "2,400 sq.ft",
+          "45 Days",
+          "₹28L Total",
+          "2024"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "projects",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Our Portfolio",
+          "Renovation Projects by Category",
+          "Browse through our diverse portfolio of completed renovation projects — each one a testament to quality workmanship and client satisfaction.",
+          "All Projects",
+          "Home Renovation",
+          "Kitchen",
+          "Bathroom",
+          "Commercial",
+          "Interior",
+          "Home Renovation",
+          "Velachery Residence",
+          "Complete overhaul of a 1,800 sq.ft. apartment — new flooring, kitchen remodel, 2 bathroom upgrades, and full interior repaint.",
+          "1,800 sq.ft",
+          "30 Days",
+          "Velachery",
+          "₹18L",
+          "Completed",
+          "Details",
+          "Kitchen Remodel",
+          "T. Nagar Modular Kitchen",
+          "L-shaped modular kitchen with quartz countertop, soft-close cabinets, chimney, and LED under-cabinet lighting.",
+          "120 sq.ft",
+          "12 Days",
+          "T. Nagar",
+          "₹3.5L",
+          "Completed",
+          "Details",
+          "Bathroom Renovation",
+          "Adyar Luxury Bathroom",
+          "Master bathroom transformation with Italian marble tiles, rain shower, vanity unit, and concealed plumbing.",
+          "65 sq.ft",
+          "10 Days",
+          "Adyar",
+          "₹2.2L",
+          "Completed",
+          "Details",
+          "Commercial",
+          "OMR Office Fit-Out",
+          "3,200 sq.ft. IT office renovation — modular workstations, conference room, pantry, and server room with raised flooring.",
+          "3,200 sq.ft",
+          "40 Days",
+          "OMR, Sholinganallur",
+          "₹35L",
+          "Completed",
+          "Details",
+          "Interior Redesign",
+          "Nungambakkam Flat Interiors",
+          "Complete interior makeover — false ceiling with cove lighting, feature walls, TV unit, wardrobes, and premium wall textures.",
+          "1,200 sq.ft",
+          "25 Days",
+          "Nungambakkam",
+          "₹12L",
+          "Completed",
+          "Details",
+          "Home Renovation",
+          "Porur Independent House",
+          "Ground + first floor renovation including structural repairs, new staircase, kitchen expansion, and terrace waterproofing.",
+          "2,000 sq.ft",
+          "50 Days",
+          "Porur",
+          "₹22L",
+          "Completed",
+          "Details",
+          "Kitchen Remodel",
+          "Mogappair U-Shaped Kitchen",
+          "Compact U-shaped kitchen with handleless cabinets, granite countertop, built-in oven niche, and pull-out pantry unit.",
+          "90 sq.ft",
+          "15 Days",
+          "Mogappair",
+          "₹2.8L",
+          "Completed",
+          "Details",
+          "Commercial",
+          "Anna Nagar Restaurant Renovation",
+          "Full restaurant interior remodel — custom lighting, acoustic panels, bar counter, dining area layout, and commercial kitchen upgrade.",
+          "1,800 sq.ft",
+          "35 Days",
+          "Anna Nagar",
+          "₹20L",
+          "Completed",
+          "Details",
+          "Home Renovation",
+          "Thoraipakkam Villa",
+          "Ongoing 3,000 sq.ft. villa renovation — second floor addition, smart home wiring, landscape garden, and swimming pool deck.",
+          "3,000 sq.ft",
+          "60 Days",
+          "Thoraipakkam",
+          "₹42L",
+          "In Progress",
+          "Details"
+        ],
+        "images": [],
+        "headings": [
+          "Renovation Projects by Category",
+          "Velachery Residence",
+          "T. Nagar Modular Kitchen",
+          "Adyar Luxury Bathroom",
+          "OMR Office Fit-Out",
+          "Nungambakkam Flat Interiors",
+          "Porur Independent House",
+          "Mogappair U-Shaped Kitchen",
+          "Anna Nagar Restaurant Renovation",
+          "Thoraipakkam Villa"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "pnum",
+        "classes": "section-pad-sm pnum-sec",
+        "texts": [
+          "By The Numbers",
+          "Our Project Impact",
+          "0",
+          "+",
+          "Home Renovations",
+          "0",
+          "+",
+          "Kitchen Remodels",
+          "0",
+          "+",
+          "Bathroom Upgrades",
+          "0",
+          "+",
+          "Commercial Projects"
+        ],
+        "images": [],
+        "headings": [
+          "Our Project Impact"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "process",
+        "classes": "section-pad",
+        "texts": [
+          "How We Work",
+          "Our Project Execution Process",
+          "Every project follows a structured 6-step process — ensuring transparency, quality control, and timely delivery from day one.",
+          "01",
+          "Consultation",
+          "Free site visit & discussion to understand your needs",
+          "02",
+          "Estimation",
+          "Detailed cost breakup with material specifications",
+          "03",
+          "Design",
+          "Layout planning, material selection & 3D visualization",
+          "04",
+          "Execution",
+          "Skilled team begins work with dedicated supervision",
+          "05",
+          "Quality Check",
+          "Multi-stage inspections to ensure flawless finish",
+          "06",
+          "Handover",
+          "Clean site walkthrough, documentation & warranty"
+        ],
+        "images": [],
+        "headings": [
+          "Our Project Execution Process",
+          "Consultation",
+          "Estimation",
+          "Design",
+          "Execution",
+          "Quality Check",
+          "Handover"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "testimonials",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Client Voices",
+          "What Our Clients Say",
+          "Real feedback from homeowners and businesses who trusted DH Construction with their renovation projects.",
+          "\"",
+          "\"DH Renovation transformed our 20-year-old house completely. The quality of work was exceptional, and they finished 3 days before the deadline. Highly recommended for anyone looking for reliable renovation in Chennai.\"",
+          "RK",
+          "Rajesh Kumar",
+          "Home Renovation — Anna Nagar",
+          "\"",
+          "\"Our modular kitchen turned out even better than we imagined. The team was professional, the materials were top quality, and there were absolutely no hidden costs. The entire experience was stress-free.\"",
+          "PS",
+          "Priya Shankar",
+          "Kitchen Remodel — T. Nagar",
+          "\"",
+          "\"We hired DH for our office fit-out on OMR and they delivered a fantastic workspace. The project management was excellent — daily updates, on-time milestones, and the final result impressed our entire team.\"",
+          "AM",
+          "Arun Mehta",
+          "Commercial Renovation — OMR"
+        ],
+        "images": [],
+        "headings": [
+          "What Our Clients Say",
+          "Rajesh Kumar",
+          "Priya Shankar",
+          "Arun Mehta"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "clients",
+        "classes": "section-pad-sm clients-sec",
+        "texts": [
+          "Our Valued Clients",
+          "Trusted by Leading Brands",
+          "We are proud to have partnered with renowned organizations across various industries, delivering quality construction and renovation solutions they can rely on.",
+          "NP",
+          "Nippon Paints",
+          "Paints & Coatings",
+          "NL",
+          "Nippon Logistics",
+          "Logistics & Supply Chain",
+          "KJ",
+          "Kalyana Jewellers",
+          "Jewellery Retail",
+          "MF",
+          "Manappuram Finance",
+          "Financial Services"
+        ],
+        "images": [],
+        "headings": [
+          "Trusted by Leading Brands",
+          "Nippon Paints",
+          "Nippon Logistics",
+          "Kalyana Jewellers",
+          "Manappuram Finance"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "cta",
+        "classes": "section-pad cta-sec",
+        "texts": [
+          "Want Your Project Here Next?",
+          "Let's discuss your renovation idea. Get a free site visit, detailed estimate, and expert consultation — no obligation, no pressure.",
+          "Call: 90423 56696",
+          "WhatsApp Us"
+        ],
+        "images": [],
+        "headings": [
+          "Want Your Project Here Next?"
+        ],
+        "reveals": []
+      }
+    ],
+    "previous_export_sections": 3,
+    "canvases": [
+      "heroCanvas"
+    ],
+    "keyframes": [
+      "blink",
+      "fShape",
+      "gridDrift",
+      "rSlow",
+      "revLine",
+      "sUp",
+      "sweepRot",
+      "waPulse"
+    ],
+    "counters": [
+      "85",
+      "45",
+      "38",
+      "32"
+    ],
+    "photo_placements": [
+      [
+        "hero-bg",
+        "Our Projects"
+      ]
+    ]
+  },
+  "Contact/contact.html": {
+    "sections": [
+      {
+        "id": "contact",
+        "classes": "section-pad",
+        "texts": [
+          "Get In Touch",
+          "Send Us Your Requirements",
+          "Fill out the form below with your project details and we'll get back to you with a free estimate within 24 hours.",
+          "Request a Free Estimate",
+          "All fields marked with * are required. We respond within 24 hours.",
+          "Full Name *",
+          "Phone Number *",
+          "Email Address",
+          "Service Type *",
+          "Select a service",
+          "Building Construction",
+          "Building Renovation",
+          "Interior Design & Fit-Out",
+          "Office Infrastructure",
+          "Glass & Gypsum Partitions",
+          "False Ceiling & Painting",
+          "Other",
+          "Property Location *",
+          "Approximate Area (sq.ft)",
+          "Budget Range",
+          "Select budget range",
+          "Below ₹2 Lakhs",
+          "₹2 – 5 Lakhs",
+          "₹5 – 10 Lakhs",
+          "₹10 – 20 Lakhs",
+          "Above ₹20 Lakhs",
+          "Not Sure Yet",
+          "Preferred Contact Time",
+          "When can we call?",
+          "Morning (8 AM – 12 PM)",
+          "Afternoon (12 PM – 4 PM)",
+          "Evening (4 PM – 7 PM)",
+          "Anytime",
+          "Project Details *",
+          "Submit Your Enquiry",
+          "Your information is 100% secure. We never share your details with third parties. By submitting, you agree to receive a follow-up call/email regarding your enquiry.",
+          "Chennai, Tamil Nadu",
+          "Directions",
+          "Phone",
+          "+91 90423 56696",
+          "Available Mon–Sat, 8 AM – 7 PM",
+          "WhatsApp",
+          "+91 90423 56696",
+          "Send photos & get instant quotes",
+          "Email",
+          "info@dhconstruction.in",
+          "We respond within 24 hours",
+          "Office Address",
+          "No. 42, 2nd Street, Anna Nagar East,",
+          "Chennai – 600 040,",
+          "Tamil Nadu, India",
+          "Working Hours",
+          "Monday – Saturday: 8:00 AM – 7:00 PM",
+          "Sunday: Closed",
+          "Service Area",
+          "All areas across Chennai & suburbs — Anna Nagar, Velachery, T. Nagar, Adyar, OMR, Porur, Tambaram, Nungambakkam & more."
+        ],
+        "images": [],
+        "headings": [
+          "Send Us Your Requirements",
+          "Request a Free Estimate",
+          "Chennai, Tamil Nadu",
+          "Phone",
+          "WhatsApp",
+          "Email",
+          "Office Address",
+          "Working Hours",
+          "Service Area"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "faq",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Common Questions",
+          "Frequently Asked Questions",
+          "Quick answers to common queries about reaching us, our consultation process, and what to expect when you contact DH Construction.",
+          "Still Have Questions? Call Us",
+          "Is the consultation really free?",
+          "Yes, absolutely. We offer a free site visit and consultation for all enquiries. Our team will visit your property, understand your requirements, and provide a detailed written estimate — all at no cost and no obligation.",
+          "How quickly will I receive a response?",
+          "We respond to all enquiries within 24 hours. For urgent requests, calling or WhatsApp-ing us gets you an instant response. We'll schedule a site visit at your convenience within 1–2 business days.",
+          "Do I need to prepare anything before the site visit?",
+          "Not necessarily, but it helps to have a rough idea of what you want changed, any reference photos (from Pinterest or Instagram), and your budget range. If you have existing floor plans, keep those handy too.",
+          "Can I get a quote over the phone without a site visit?",
+          "We can give you a rough ballpark range over the phone based on your description. However, an accurate and binding estimate requires a site visit to assess the current condition, measurements, and specific requirements.",
+          "What if I'm located outside Chennai?",
+          "While our primary service area is Chennai and its suburbs, we do take on projects in nearby areas like Kanchipuram, Chengalpattu, and Tiruvallur. Contact us with your location and we'll let you know if we can help.",
+          "Can I visit your office without an appointment?",
+          "Yes, you're welcome to walk in during our office hours (Mon–Sat, 8 AM – 7 PM). However, for a detailed discussion about your project, we recommend scheduling an appointment so we can dedicate proper time to your requirements."
+        ],
+        "images": [],
+        "headings": [
+          "Frequently Asked Questions",
+          "Is the consultation really free?",
+          "How quickly will I receive a response?",
+          "Do I need to prepare anything before the site visit?",
+          "Can I get a quote over the phone without a site visit?",
+          "What if I'm located outside Chennai?",
+          "Can I visit your office without an appointment?"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "cta",
+        "classes": "section-pad cta-sec",
+        "texts": [
+          "Ready to Start Your Project?",
+          "One call is all it takes. Reach out now for a free consultation and let's turn your construction vision into reality.",
+          "Call: 90423 56696",
+          "WhatsApp Us"
+        ],
+        "images": [],
+        "headings": [
+          "Ready to Start Your Project?"
+        ],
+        "reveals": []
+      }
+    ],
+    "previous_export_sections": 4,
+    "canvases": [],
+    "keyframes": [
+      "waPulse"
+    ],
+    "counters": [],
+    "photo_placements": []
+  },
+  "services/Buliding_Construction.html": {
+    "sections": [
+      {
+        "id": "hero",
+        "classes": "hero",
+        "texts": [
+          "15+ Years of Excellence in Chennai",
+          "Building Timeless",
+          "Spaces with",
+          "Precision",
+          "&",
+          "Passion",
+          "We build more than structures — we craft legacies. From residential homes to commercial landmarks, DH Construction delivers excellence at every step.",
+          "Call: 90423 56696",
+          "WhatsApp Us",
+          "15",
+          "+",
+          "Years Exp.",
+          "450",
+          "+",
+          "Projects",
+          "350",
+          "+",
+          "Clients",
+          "100",
+          "%",
+          "On-Time",
+          "Quality Assured",
+          "Premium Materials",
+          "On-Time",
+          "100% Delivery"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1920&q=80",
+          "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+          "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=500&q=80"
+        ],
+        "headings": [
+          "Building Timeless Spaces with Precision & Passion",
+          "15+",
+          "450+",
+          "350+",
+          "100%",
+          "Quality Assured",
+          "On-Time"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "about",
+        "classes": "section-pad",
+        "texts": [
+          "About DH Construction",
+          "We Build More Than Structures",
+          "Welcome to DH Construction — your trusted partner for construction, renovation, and interior solutions. We specialize in residential, commercial, and industrial projects, delivering high-quality workmanship with a strong commitment to safety, innovation, and customer satisfaction.",
+          "With experienced professionals and skilled craftsmen, we provide complete turnkey solutions — from planning and design to execution and finishing. Every project is completed with attention to detail, quality materials, and on-time delivery.",
+          "Residential, Commercial & Industrial Expertise",
+          "Complete Turnkey Solutions",
+          "Premium Quality Materials & Workmanship",
+          "On-Time Delivery with Transparent Pricing",
+          "Our Mission",
+          "To deliver reliable, innovative, and cost-effective construction and interior solutions that exceed customer expectations.",
+          "Our Vision",
+          "To become one of the most trusted construction and interior companies known for quality, integrity, and excellence."
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&q=80",
+          "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=400&q=80",
+          "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=400&q=80"
+        ],
+        "headings": [
+          "We Build More Than Structures",
+          "Our Mission",
+          "Our Vision"
+        ],
+        "reveals": []
+      },
+      {
+        "id": null,
+        "classes": "stats-strip section-pad-sm",
+        "texts": [
+          "0",
+          "+",
+          "Projects Done",
+          "0",
+          "+",
+          "Happy Clients",
+          "0",
+          "+",
+          "Years Experience",
+          "0",
+          "+",
+          "Service Areas"
+        ],
+        "images": [],
+        "headings": [
+          "0+",
+          "0+",
+          "0+",
+          "0+"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "services",
+        "classes": "section-pad",
+        "texts": [
+          "What We Do",
+          "Our Services",
+          "Complete construction and interior solutions tailored to your needs.",
+          "01",
+          "Building Construction",
+          "Complete construction services for residential, commercial, and industrial buildings — designed to last generations.",
+          "Learn More",
+          "02",
+          "Building Renovation",
+          "Transform existing spaces with modern renovation and remodeling solutions that breathe new life into your property.",
+          "Learn More",
+          "03",
+          "Interior Design & Fit-Out",
+          "Stylish and functional interiors for homes, offices, retail stores, and commercial spaces crafted to impress.",
+          "Learn More",
+          "04",
+          "Office Infrastructure",
+          "Complete office setup including partitions, false ceilings, flooring, lighting, furniture installation, and workspace planning.",
+          "Learn More",
+          "05",
+          "Glass & Gypsum Partitions",
+          "Frameless glass partitions, toughened glass doors, and gypsum partition systems for modern workspace division.",
+          "Learn More",
+          "06",
+          "False Ceiling & Painting",
+          "Modern false ceiling designs, POP and gypsum ceilings, and premium painting services for a flawless finish.",
+          "Learn More"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&q=80",
+          "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=600&q=80",
+          "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=600&q=80",
+          "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&q=80",
+          "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=600&q=80",
+          "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&q=80"
+        ],
+        "headings": [
+          "Our Services",
+          "Building Construction",
+          "Building Renovation",
+          "Interior Design & Fit-Out",
+          "Office Infrastructure",
+          "Glass & Gypsum Partitions",
+          "False Ceiling & Painting"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "projects",
+        "classes": "section-pad",
+        "texts": [
+          "Portfolio",
+          "Recent Projects",
+          "A showcase of our finest construction and interior work.",
+          "Residential",
+          "Luxury Villa — Pallavaram, Chennai",
+          "4,200 sq ft",
+          "10 Months",
+          "₹85 Lakhs",
+          "Commercial",
+          "Corporate Office Interior — Tambaram",
+          "8,500 sq ft",
+          "45 Days",
+          "₹32 Lakhs",
+          "Residential",
+          "Modern Family Home — Chengalpattu",
+          "2,800 sq ft",
+          "8 Months",
+          "Interior",
+          "Restaurant Fit-Out — Chennai",
+          "3,200 sq ft",
+          "30 Days",
+          "Commercial",
+          "Office Building — Kanchipuram",
+          "12,000 sq ft",
+          "14 Months"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&q=80",
+          "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+          "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&q=80",
+          "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=600&q=80",
+          "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=80"
+        ],
+        "headings": [
+          "Recent Projects",
+          "Luxury Villa — Pallavaram, Chennai",
+          "Corporate Office Interior — Tambaram",
+          "Modern Family Home — Chengalpattu",
+          "Restaurant Fit-Out — Chennai",
+          "Office Building — Kanchipuram"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "why-us",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Why Choose Us",
+          "The DH Construction Advantage",
+          "Skilled Team",
+          "Experienced professionals & craftsmen",
+          "Premium Materials",
+          "Only the finest quality sourced",
+          "On-Time Delivery",
+          "Respect your timeline always",
+          "Transparent Pricing",
+          "No hidden costs, honest quotes",
+          "Custom Designs",
+          "Tailored to your exact needs",
+          "Safety & QA",
+          "Strict checks at every stage",
+          "Great Support",
+          "Responsive before & after project"
+        ],
+        "images": [],
+        "headings": [
+          "The DH Construction Advantage",
+          "Skilled Team",
+          "Premium Materials",
+          "On-Time Delivery",
+          "Transparent Pricing",
+          "Custom Designs",
+          "Safety & QA",
+          "Great Support"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "gallery",
+        "classes": "section-pad",
+        "texts": [
+          "Gallery",
+          "Our Work Speaks",
+          "All",
+          "Residential",
+          "Commercial",
+          "Interior",
+          "False Ceiling",
+          "Partitions",
+          "Residential Construction",
+          "Commercial Building",
+          "Office Interior",
+          "False Ceiling",
+          "Glass Partition",
+          "Interior Fit-Out",
+          "Luxury Villa",
+          "Commercial Project",
+          "Modern Ceiling Design"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&q=80",
+          "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=80",
+          "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&q=80",
+          "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&q=80",
+          "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=600&q=80",
+          "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=600&q=80",
+          "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=600&q=80",
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80",
+          "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=600&q=80"
+        ],
+        "headings": [
+          "Our Work Speaks"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "testimonials",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Testimonials",
+          "What Our Clients Say",
+          "Real feedback from real clients who trusted us with their dream projects.",
+          "\"",
+          "DH Construction built our dream villa in Pallavaram. The quality of work, attention to detail, and on-time delivery were outstanding. Highly recommended!",
+          "Rajesh Kumar",
+          "Villa Owner, Pallavaram",
+          "\"",
+          "We hired DH Construction for our corporate office fit-out in Tambaram. The glass partitions and false ceiling work was impeccable. Professional team!",
+          "Priya Menon",
+          "MD, Tech Solutions Pvt Ltd",
+          "\"",
+          "Complete house renovation done in 45 days. The interior design and flooring work exceeded our expectations. Transparent pricing and great communication throughout.",
+          "Suresh Babu",
+          "Homeowner, Chengalpattu"
+        ],
+        "images": [
+          "https://picsum.photos/seed/client1/100/100.jpg",
+          "https://picsum.photos/seed/client2/100/100.jpg",
+          "https://picsum.photos/seed/client3/100/100.jpg"
+        ],
+        "headings": [
+          "What Our Clients Say",
+          "Rajesh Kumar",
+          "Priya Menon",
+          "Suresh Babu"
+        ],
+        "reveals": []
+      },
+      {
+        "id": null,
+        "classes": "cta-sec section-pad",
+        "texts": [
+          "Ready to Build Your Dream Project?",
+          "Let's discuss your vision. Get a free consultation and detailed estimate — no obligations, just honest advice from experts who care.",
+          "Call Now: 90423 56696",
+          "WhatsApp Us"
+        ],
+        "images": [],
+        "headings": [
+          "Ready to Build Your Dream Project?"
+        ],
+        "reveals": []
+      },
+      {
+        "id": null,
+        "classes": "section-pad-sm",
+        "texts": [
+          "Coverage",
+          "Areas We Serve",
+          "Proudly serving Chennai and surrounding areas with premium construction services.",
+          "Pallavaram",
+          "Tambaram",
+          "Chengalpattu",
+          "Chromepet",
+          "Velachery",
+          "Kanchipuram",
+          "Vandalur",
+          "Mudichur",
+          "Perungalathur",
+          "Chennai City",
+          "Maraimalai Nagar",
+          "Singaperumal Koil"
+        ],
+        "images": [],
+        "headings": [
+          "Areas We Serve"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "contact",
+        "classes": "section-pad",
+        "texts": [
+          "Get In Touch",
+          "Contact Us",
+          "Have a project in mind? Reach out to us for a free consultation and estimate.",
+          "Office Address",
+          "Pallavaram, Chennai,",
+          "Tamil Nadu - 600043",
+          "Phone Number",
+          "+91 90423 56696",
+          "WhatsApp",
+          "Chat with us on WhatsApp",
+          "Email",
+          "info@dhconstruction.in",
+          "Working Hours",
+          "Mon – Sat: 8:00 AM – 7:00 PM",
+          "Sunday: By Appointment",
+          "Request a Free Estimate",
+          "Fill out the form below and we'll get back to you within 24 hours.",
+          "Full Name *",
+          "Phone Number *",
+          "Email Address",
+          "Service Required *",
+          "Select a service",
+          "Building Construction",
+          "Building Renovation",
+          "Interior Design & Fit-Out",
+          "Office Infrastructure",
+          "Glass & Gypsum Partitions",
+          "False Ceiling & Painting",
+          "Other",
+          "Project Location",
+          "Project Details *",
+          "Send Enquiry"
+        ],
+        "images": [],
+        "headings": [
+          "Contact Us",
+          "Office Address",
+          "Phone Number",
+          "WhatsApp",
+          "Email",
+          "Working Hours",
+          "Request a Free Estimate"
+        ],
+        "reveals": []
+      }
+    ],
+    "previous_export_sections": 6,
+    "canvases": [
+      "heroCanvas"
+    ],
+    "keyframes": [
+      "badgeFloat",
+      "floatShape",
+      "gridDrift",
+      "revealLine",
+      "rotateSlow",
+      "sInR",
+      "sUp",
+      "sweepRotate",
+      "waPulse"
+    ],
+    "counters": [
+      "450",
+      "350",
+      "15",
+      "7"
+    ],
+    "photo_placements": [
+      [
+        "hero-bg",
+        "DH Construction Villa"
+      ],
+      [
+        "hv-main",
+        "Luxury Villa Exterior"
+      ],
+      [
+        "hv-accent",
+        "Interior Living Room"
+      ],
+      [
+        "about-img about-img-tall",
+        "Construction Site"
+      ],
+      [
+        "about-img about-img-short",
+        "Building"
+      ],
+      [
+        "about-img about-img-short",
+        "Interior"
+      ],
+      [
+        "svc-card-img",
+        "Building Construction"
+      ],
+      [
+        "svc-card-img",
+        "Renovation"
+      ],
+      [
+        "svc-card-img",
+        "Interior Design"
+      ],
+      [
+        "svc-card-img",
+        "Office Infrastructure"
+      ],
+      [
+        "svc-card-img",
+        "Glass Partitions"
+      ],
+      [
+        "svc-card-img",
+        "False Ceiling"
+      ],
+      [
+        "proj-img",
+        "Luxury Villa"
+      ],
+      [
+        "proj-img",
+        "Corporate Office"
+      ],
+      [
+        "proj-img",
+        "Modern Home"
+      ],
+      [
+        "proj-img",
+        "Restaurant Interior"
+      ],
+      [
+        "proj-img",
+        "Commercial Building"
+      ],
+      [
+        "gal-item",
+        "Residential"
+      ],
+      [
+        "gal-item",
+        "Commercial"
+      ],
+      [
+        "gal-item",
+        "Office"
+      ],
+      [
+        "gal-item",
+        "Ceiling"
+      ],
+      [
+        "gal-item",
+        "Partition"
+      ],
+      [
+        "gal-item",
+        "Interior"
+      ],
+      [
+        "gal-item",
+        "Villa"
+      ],
+      [
+        "gal-item",
+        "Commercial"
+      ],
+      [
+        "gal-item",
+        "Modern Ceiling"
+      ],
+      [
+        "testi-avatar",
+        "Rajesh Kumar"
+      ],
+      [
+        "testi-avatar",
+        "Priya Menon"
+      ],
+      [
+        "testi-avatar",
+        "Suresh Babu"
+      ]
+    ]
+  },
+  "services/Building_rennovation.html": {
+    "sections": [
+      {
+        "id": "hero",
+        "classes": "hero",
+        "texts": [
+          "Expert Renovation Services in Chennai",
+          "Transform Your Space",
+          "with Expert",
+          "Renovation",
+          "&",
+          "Remodeling",
+          "Breathe new life into your existing property. From kitchens and bathrooms to complete home makeovers — we handle every detail with precision, creativity, and 15+ years of expertise.",
+          "Call: 90423 56696",
+          "WhatsApp Us",
+          "200",
+          "+",
+          "Renovations",
+          "15",
+          "+",
+          "Years Exp.",
+          "98",
+          "%",
+          "Satisfaction",
+          "100",
+          "%",
+          "On-Time"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?w=1920&q=80"
+        ],
+        "headings": [
+          "Transform Your Space with Expert Renovation & Remodeling",
+          "200+",
+          "15+",
+          "98%",
+          "100%"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "about",
+        "classes": "section-pad",
+        "texts": [
+          "What We Renovate",
+          "Complete Renovation Solutions",
+          "Whether it's a single room or an entire building, we bring your renovation vision to life with expert craftsmanship.",
+          "Complete Home Renovation",
+          "Full-scale home remodeling from structure to finishing touches",
+          "Kitchen Renovation",
+          "Modern kitchens with modular cabinets, countertops & fixtures",
+          "Bathroom Renovation",
+          "Stylish bathrooms with tiles, sanitary ware & plumbing",
+          "Commercial Renovation",
+          "Office, retail & restaurant remodeling and upgrades",
+          "Interior Redesign",
+          "Fresh interiors with false ceiling, painting & wall treatments",
+          "Flooring & Tiling",
+          "Vinyl, vitrified, granite & marble flooring solutions",
+          "Electrical & Plumbing",
+          "Complete rewiring, plumbing overhaul & fixture upgrades",
+          "Doors & Windows",
+          "Replacement with UPVC, aluminum, teak wood & safety doors"
+        ],
+        "images": [],
+        "headings": [
+          "Complete Renovation Solutions",
+          "Complete Home Renovation",
+          "Kitchen Renovation",
+          "Bathroom Renovation",
+          "Commercial Renovation",
+          "Interior Redesign",
+          "Flooring & Tiling",
+          "Electrical & Plumbing",
+          "Doors & Windows"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "services",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Our Expertise",
+          "Renovation Services in Detail",
+          "Every renovation need covered under one roof — with skilled professionals and premium materials.",
+          "Full Home Renovation",
+          "Complete transformation of your existing home — structural changes, new layouts, modern finishes, and everything in between.",
+          "Structural modifications & wall changes",
+          "Complete rewiring & plumbing",
+          "New flooring, painting & ceilings",
+          "Door & window replacement",
+          "Kitchen Remodeling",
+          "Design and build your dream kitchen with modern modular systems, efficient storage, and premium finishes.",
+          "Modular kitchen cabinets & shutters",
+          "Granite & quartz countertops",
+          "Chimney, hob & sink installation",
+          "Tile backsplash & lighting",
+          "Bathroom Makeover",
+          "Turn your old bathroom into a spa-like retreat with modern fixtures, waterproofing, and elegant tile work.",
+          "Complete waterproofing solutions",
+          "Designer wall & floor tiles",
+          "Sanitary ware & fittings upgrade",
+          "Shower enclosures & glass partitions",
+          "Commercial Renovation",
+          "Upgrade your office, retail space, or restaurant to create a modern, productive, and customer-friendly environment.",
+          "Office layout redesign",
+          "Glass & gypsum partitions",
+          "False ceiling & lighting systems",
+          "Reception & facade renovation"
+        ],
+        "images": [],
+        "headings": [
+          "Renovation Services in Detail",
+          "Full Home Renovation",
+          "Kitchen Remodeling",
+          "Bathroom Makeover",
+          "Commercial Renovation"
+        ],
+        "reveals": []
+      },
+      {
+        "id": null,
+        "classes": "section-pad",
+        "texts": [
+          "Specialized Work",
+          "Additional Renovation Services",
+          "Beyond full renovations, we offer specialized services to upgrade specific areas of your property with precision and care.",
+          "Discuss Your Needs",
+          "False Ceiling",
+          "POP, gypsum & modern ceiling designs with integrated lighting",
+          "Painting & Wall Work",
+          "Texture painting, wall putty, wallpapers & accent walls",
+          "Partitions & Dividers",
+          "Glass, gypsum & wooden partitions for space optimization",
+          "Electrical Upgrades",
+          "Rewiring, panel upgrades, LED lighting & smart switches",
+          "Plumbing Overhaul",
+          "Pipe replacement, water heater installation & drainage fixes",
+          "Exterior Facelift",
+          "Exterior painting, cladding, compound wall & elevation work"
+        ],
+        "images": [],
+        "headings": [
+          "Additional Renovation Services",
+          "False Ceiling",
+          "Painting & Wall Work",
+          "Partitions & Dividers",
+          "Electrical Upgrades",
+          "Plumbing Overhaul",
+          "Exterior Facelift"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "process",
+        "classes": "section-pad-sm",
+        "texts": [
+          "How We Work",
+          "Our Renovation Process",
+          "A structured, transparent process that keeps you informed at every stage — from the first consultation to the final handover.",
+          "Average Timeline",
+          "15–45 days depending on scope & complexity",
+          "1. Consultation & Assessment",
+          "We visit your property, understand your requirements, assess the current condition, and discuss your vision, budget, and timeline expectations.",
+          "2. Detailed Estimation & Planning",
+          "We provide a comprehensive, transparent cost breakdown with material specifications, work scope, and a detailed project schedule — no hidden charges.",
+          "3. Design & Material Selection",
+          "Our design team helps you choose finishes, colors, materials, and layouts. We source premium materials from trusted suppliers at the best prices.",
+          "4. Execution & Renovation Work",
+          "Our skilled team carries out all demolition, civil, electrical, plumbing, finishing, and installation work with strict quality checks at every stage.",
+          "5. Quality Inspection & Handover",
+          "Final walkthrough with you, punch list completion, cleaning, and handover with a satisfaction guarantee and post-project support."
+        ],
+        "images": [],
+        "headings": [
+          "Our Renovation Process",
+          "Average Timeline",
+          "1. Consultation & Assessment",
+          "2. Detailed Estimation & Planning",
+          "3. Design & Material Selection",
+          "4. Execution & Renovation Work",
+          "5. Quality Inspection & Handover"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "projects",
+        "classes": "section-pad",
+        "texts": [
+          "Portfolio",
+          "Renovation Projects",
+          "Real transformations we've delivered — see the before-and-after difference in our work.",
+          "Kitchen",
+          "Complete Kitchen Remodel — Pallavaram",
+          "180 sq ft",
+          "20 Days",
+          "₹4.5 Lakhs",
+          "Bathroom",
+          "Luxury Bathroom Makeover — Tambaram",
+          "65 sq ft",
+          "12 Days",
+          "₹1.8 Lakhs",
+          "Full Home",
+          "Complete Home Renovation — Chengalpattu",
+          "1,800 sq ft",
+          "45 Days",
+          "₹18 Lakhs",
+          "Commercial",
+          "Office Renovation — Velachery",
+          "3,200 sq ft",
+          "30 Days",
+          "₹12 Lakhs",
+          "Interior",
+          "Living Room Redesign — Chromepet",
+          "400 sq ft",
+          "15 Days",
+          "₹3.5 Lakhs"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80",
+          "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&q=80",
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80",
+          "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&q=80",
+          "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&q=80"
+        ],
+        "headings": [
+          "Renovation Projects",
+          "Complete Kitchen Remodel — Pallavaram",
+          "Luxury Bathroom Makeover — Tambaram",
+          "Complete Home Renovation — Chengalpattu",
+          "Office Renovation — Velachery",
+          "Living Room Redesign — Chromepet"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "why-us",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Why Choose Us",
+          "The DH Renovation Advantage",
+          "What sets us apart from other renovation contractors in Chennai.",
+          "Expert Team",
+          "Skilled masons, electricians, plumbers & painters",
+          "Detailed Quote",
+          "Itemized estimation — no surprises later",
+          "On-Time Delivery",
+          "Strict timeline adherence on every project",
+          "Quality Guarantee",
+          "Post-handover support & warranty on work",
+          "Clean Worksite",
+          "Daily cleanup & organized material storage",
+          "Daily Updates",
+          "Photo/video progress reports via WhatsApp",
+          "Budget Friendly",
+          "Options for every budget without quality loss",
+          "Single Point Contact",
+          "Dedicated project manager for communication"
+        ],
+        "images": [],
+        "headings": [
+          "The DH Renovation Advantage",
+          "Expert Team",
+          "Detailed Quote",
+          "On-Time Delivery",
+          "Quality Guarantee",
+          "Clean Worksite",
+          "Daily Updates",
+          "Budget Friendly",
+          "Single Point Contact"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "testimonials",
+        "classes": "section-pad",
+        "texts": [
+          "Client Reviews",
+          "What Our Clients Say",
+          "Hear from homeowners and businesses who trusted us with their renovation projects.",
+          "\"",
+          "We got our 20-year-old kitchen completely renovated. The modular cabinets and granite countertop look amazing. DH team was professional and finished in just 18 days!",
+          "RK",
+          "Revathi Krishnan",
+          "Kitchen Renovation, Pallavaram",
+          "\"",
+          "Complete office renovation with glass partitions and false ceiling. Very clean work, daily WhatsApp updates, and they delivered 2 days before the deadline. Highly recommend!",
+          "AM",
+          "Arun Mohan",
+          "Office Renovation, Tambaram",
+          "\"",
+          "Two bathrooms and the living room were renovated. The tile work and waterproofing were excellent. Transparent pricing with no hidden costs — exactly what they quoted.",
+          "DS",
+          "Deepa Suresh",
+          "Home Renovation, Chengalpattu"
+        ],
+        "images": [],
+        "headings": [
+          "What Our Clients Say",
+          "Revathi Krishnan",
+          "Arun Mohan",
+          "Deepa Suresh"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "faq",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Common Questions",
+          "Frequently Asked Questions",
+          "Got questions about your renovation project? Here are answers to the most common ones we hear from our clients.",
+          "Still Have Questions?",
+          "How much does a home renovation cost in Chennai?",
+          "It depends on the scope and materials chosen. A basic bathroom renovation starts from ₹60,000, a kitchen from ₹1.5 lakhs, and full home renovation from ₹8–10 lakhs. We provide a detailed, itemized quote after a free site visit.",
+          "How long does a typical renovation take?",
+          "Bathroom renovations take 10–15 days, kitchen remodeling 15–25 days, and complete home renovation 30–60 days depending on the area and complexity. We commit to a timeline upfront and stick to it.",
+          "Do I need to vacate my home during renovation?",
+          "Not always. For single-room renovations (kitchen or bathroom), you can stay. For full home renovation involving electrical and plumbing overhaul, we recommend temporary relocation for safety and convenience.",
+          "Do you handle permits and approvals?",
+          "Yes, for renovations involving structural changes, we guide you through the necessary approvals from the local municipality or panchayat. For interior-only work, permits are typically not required.",
+          "What materials do you use? Can I choose my own?",
+          "We use premium-grade materials from trusted brands. You're absolutely welcome to choose your own materials, tiles, fixtures, and finishes — we'll source them at the best prices and handle all procurement.",
+          "Do you provide a warranty on renovation work?",
+          "Yes, we provide a workmanship warranty of 1–2 years depending on the type of work. Waterproofing carries a separate manufacturer warranty. We also offer post-handover support for any issues."
+        ],
+        "images": [],
+        "headings": [
+          "Frequently Asked Questions",
+          "How much does a home renovation cost in Chennai?",
+          "How long does a typical renovation take?",
+          "Do I need to vacate my home during renovation?",
+          "Do you handle permits and approvals?",
+          "What materials do you use? Can I choose my own?",
+          "Do you provide a warranty on renovation work?"
+        ],
+        "reveals": []
+      },
+      {
+        "id": null,
+        "classes": "cta-sec section-pad",
+        "texts": [
+          "Ready to Transform Your Space?",
+          "Get a free site visit, detailed assessment, and transparent quote — no obligations, just honest renovation advice from experts.",
+          "Call: 90423 56696",
+          "WhatsApp Us"
+        ],
+        "images": [],
+        "headings": [
+          "Ready to Transform Your Space?"
+        ],
+        "reveals": []
+      },
+      {
+        "id": null,
+        "classes": "section-pad-sm",
+        "texts": [
+          "Coverage",
+          "Renovation Areas We Serve",
+          "Expert renovation services across Chennai and surrounding areas.",
+          "Pallavaram",
+          "Tambaram",
+          "Chengalpattu",
+          "Chromepet",
+          "Velachery",
+          "Kanchipuram",
+          "Vandalur",
+          "Mudichur",
+          "Perungalathur",
+          "Chennai City"
+        ],
+        "images": [],
+        "headings": [
+          "Renovation Areas We Serve"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "contact",
+        "classes": "section-pad",
+        "texts": [
+          "Get In Touch",
+          "Request a Renovation Quote",
+          "Tell us about your renovation project and get a free, no-obligation estimate within 24 hours.",
+          "Office Address",
+          "Pallavaram, Chennai,",
+          "Tamil Nadu - 600043",
+          "Phone Number",
+          "+91 90423 56696",
+          "WhatsApp",
+          "Send photos of your space on WhatsApp",
+          "Email",
+          "info@dhconstruction.in",
+          "Working Hours",
+          "Mon – Sat: 8:00 AM – 7:00 PM",
+          "Sunday: By Appointment",
+          "Free Renovation Estimate",
+          "Fill out the details below — the more info you provide, the more accurate our quote will be.",
+          "Full Name *",
+          "Phone Number *",
+          "Type of Renovation *",
+          "Select type",
+          "Full Home Renovation",
+          "Kitchen Remodeling",
+          "Bathroom Renovation",
+          "Commercial Renovation",
+          "Interior Redesign",
+          "Flooring & Tiling",
+          "Electrical & Plumbing",
+          "Exterior Renovation",
+          "Other",
+          "Approx. Area",
+          "Property Location *",
+          "Describe Your Renovation Needs *",
+          "Get Free Estimate"
+        ],
+        "images": [],
+        "headings": [
+          "Request a Renovation Quote",
+          "Office Address",
+          "Phone Number",
+          "WhatsApp",
+          "Email",
+          "Working Hours",
+          "Free Renovation Estimate"
+        ],
+        "reveals": []
+      }
+    ],
+    "previous_export_sections": 6,
+    "canvases": [
+      "heroCanvas"
+    ],
+    "keyframes": [
+      "fShape",
+      "gridDrift",
+      "rSlow",
+      "revLine",
+      "sUp",
+      "sweepRot",
+      "waPulse"
+    ],
+    "counters": [],
+    "photo_placements": [
+      [
+        "hero-bg",
+        "Building Renovation"
+      ],
+      [
+        "proj-img",
+        "Kitchen Renovation"
+      ],
+      [
+        "proj-img",
+        "Bathroom Renovation"
+      ],
+      [
+        "proj-img",
+        "Home Renovation"
+      ],
+      [
+        "proj-img",
+        "Office Renovation"
+      ],
+      [
+        "proj-img",
+        "Interior Renovation"
+      ]
+    ]
+  },
+  "services/interior_designs.html": {
+    "sections": [
+      {
+        "id": "hero",
+        "classes": "hero",
+        "texts": [
+          "Interior Design & Fit-Out Specialists",
+          "Spaces That",
+          "Inspire",
+          "&",
+          "Elevate",
+          "Living",
+          "From concept to completion, we transform empty spaces into stunning interiors — offices, homes, retail, and commercial environments crafted with precision.",
+          "Call: 90423 56696",
+          "WhatsApp Us",
+          "200",
+          "+",
+          "Interiors Done",
+          "15",
+          "+",
+          "Years Exp.",
+          "98",
+          "%",
+          "Client Satisfaction",
+          "30",
+          "Days",
+          "Avg. Delivery",
+          "5-Star Rated",
+          "200+ Reviews",
+          "Fast Delivery",
+          "On Schedule"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+          "https://images.unsplash.com/photo-1497366216548-37526070297c?w=500&q=80"
+        ],
+        "headings": [
+          "Spaces That Inspire & Elevate Living",
+          "200+",
+          "15+",
+          "98%",
+          "30Days",
+          "5-Star Rated",
+          "Fast Delivery"
+        ],
+        "reveals": []
+      },
+      {
+        "id": null,
+        "classes": "stats-strip section-pad-sm",
+        "texts": [
+          "0",
+          "+",
+          "Interior Projects",
+          "0",
+          "+",
+          "Years Experience",
+          "0",
+          "%",
+          "Client Satisfaction",
+          "0",
+          "K+",
+          "Sq Ft Delivered"
+        ],
+        "images": [],
+        "headings": [
+          "0+",
+          "0+",
+          "0%",
+          "0K+"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "spaces",
+        "classes": "section-pad",
+        "texts": [
+          "Spaces We Transform",
+          "Interior Solutions for Every Space",
+          "Whether it's a cozy home or a corporate headquarters, we deliver interiors that match your vision and purpose.",
+          "Corporate Offices",
+          "Productive workspaces with smart partitions, ergonomic layouts, and professional aesthetics.",
+          "Glass Partitions",
+          "False Ceilings",
+          "Workstations",
+          "Meeting Pods",
+          "Residential Interiors",
+          "Warm, elegant living spaces that reflect your personality and lifestyle perfectly.",
+          "Modular Kitchen",
+          "Wardrobes",
+          "TV Units",
+          "False Ceiling",
+          "Retail & Showrooms",
+          "Eye-catching displays and customer-friendly layouts that boost sales.",
+          "Display Units",
+          "Lighting",
+          "Branding",
+          "Restaurants & Cafés",
+          "Atmospheric dining interiors that create memorable experiences for guests.",
+          "Themed Design",
+          "Lighting",
+          "Acoustics",
+          "Healthcare & Clinics",
+          "Hygienic, calming interiors designed for patient comfort and efficiency.",
+          "Hygienic Finishes",
+          "Waiting Areas",
+          "Signage"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+          "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+          "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=600&q=80",
+          "https://images.unsplash.com/photo-1577985043696-8bd54d9c4f17?w=600&q=80",
+          "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=600&q=80"
+        ],
+        "headings": [
+          "Interior Solutions for Every Space",
+          "Corporate Offices",
+          "Residential Interiors",
+          "Retail & Showrooms",
+          "Restaurants & Cafés",
+          "Healthcare & Clinics"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "process",
+        "classes": "section-pad-sm",
+        "texts": [
+          "How We Work",
+          "Our Design Process",
+          "A streamlined 5-step process that ensures your project is delivered on time, on budget, and beyond expectations.",
+          "Consultation",
+          "Understanding your vision, needs, and budget through detailed discussion.",
+          "Site Measurement",
+          "Precise on-site measurements and structural assessment by our team.",
+          "Design & 3D",
+          "Creating detailed layouts, material selection, and 3D visualizations.",
+          "Execution",
+          "Skilled craftsmen bring the design to life with precision fit-out work.",
+          "Handover",
+          "Final quality check, cleanup, and key handover with warranty details."
+        ],
+        "images": [],
+        "headings": [
+          "Our Design Process",
+          "Consultation",
+          "Site Measurement",
+          "Design & 3D",
+          "Execution",
+          "Handover"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "materials",
+        "classes": "section-pad",
+        "texts": [
+          "Premium Materials",
+          "Materials We Work With",
+          "We source only the finest materials from trusted brands to ensure durability and elegance in every project.",
+          "Premium Wood",
+          "Teak, oak, walnut for furniture & paneling",
+          "Toughened Glass",
+          "Frameless partitions & doors",
+          "Marble & Granite",
+          "Flooring, countertops & wall cladding",
+          "Vinyl Flooring",
+          "Commercial-grade durable flooring",
+          "Laminate & Veneer",
+          "Modern finishes for furniture & walls",
+          "Gypsum Board",
+          "False ceilings & wall partitions",
+          "Acoustic Panels",
+          "Sound-proofing for offices & studios",
+          "Premium Hardware",
+          "Hettich, Hafele, & top brands"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=200&q=80",
+          "https://images.unsplash.com/photo-1615529328331-f8917597711f?w=200&q=80",
+          "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=200&q=80",
+          "https://images.unsplash.com/photo-1615529151169-7b1ff8e8a966?w=200&q=80",
+          "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=200&q=80",
+          "https://images.unsplash.com/photo-1615529328331-f8917597711f?w=200&q=80",
+          "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=200&q=80",
+          "https://images.unsplash.com/photo-1615529151169-7b1ff8e8a966?w=200&q=80"
+        ],
+        "headings": [
+          "Materials We Work With",
+          "Premium Wood",
+          "Toughened Glass",
+          "Marble & Granite",
+          "Vinyl Flooring",
+          "Laminate & Veneer",
+          "Gypsum Board",
+          "Acoustic Panels",
+          "Premium Hardware"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "testimonials",
+        "classes": "section-pad",
+        "texts": [
+          "Client Stories",
+          "What Our Clients Say",
+          "Real feedback from clients who trusted us with their interior transformations.",
+          "\"DH Construction transformed our 8,000 sq ft office into a modern workspace. The glass partitions and false ceiling work was flawless. Delivered in just 40 days!\"",
+          "Rajesh Kumar",
+          "CEO, TechVista Solutions — Tambaram",
+          "\"Our restaurant interior turned out even better than the 3D design. The ambience, lighting, and finishes are top-notch. Customers love the new look!\"",
+          "Priya Menon",
+          "Owner, Spice Garden Restaurant — Chennai",
+          "\"The modular kitchen and wardrobes they designed for our home are beautiful and functional. Very professional team, clean work, and great after-service support.\"",
+          "Dr. Suresh Babu",
+          "Homeowner — Pallavaram"
+        ],
+        "images": [
+          "https://picsum.photos/seed/rajesh01/96/96.jpg",
+          "https://picsum.photos/seed/priya02/96/96.jpg",
+          "https://picsum.photos/seed/suresh03/96/96.jpg"
+        ],
+        "headings": [
+          "What Our Clients Say",
+          "Rajesh Kumar",
+          "Priya Menon",
+          "Dr. Suresh Babu"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "faq",
+        "classes": "section-pad-sm",
+        "texts": [
+          "FAQ",
+          "Frequently Asked Questions",
+          "Got questions about our interior design and fit-out services? Here are answers to the most common ones.",
+          "Still Have Questions?",
+          "How long does a typical office fit-out take?",
+          "For a standard office of 2,000–5,000 sq ft, the fit-out typically takes 25–45 days depending on the complexity. Larger spaces or custom designs may take 45–60 days. We provide a detailed timeline before starting work.",
+          "Do you provide 3D designs before starting work?",
+          "Yes! For all premium and luxury packages, we provide detailed 3D visualizations so you can see exactly how your space will look before any work begins. Essential packages include basic layout plans.",
+          "What is the minimum area you work with?",
+          "We handle projects starting from 500 sq ft upwards. There's no maximum limit — we've done everything from small cabins to entire corporate floors of 20,000+ sq ft.",
+          "Can I use my existing furniture in the new design?",
+          "Absolutely. We integrate your existing furniture into the new design wherever possible. Our designers will assess what can be reused and suggest complementary pieces for a cohesive look.",
+          "Do you offer warranties on the work?",
+          "Yes, we provide a 1-year warranty on all fit-out work including false ceilings, partitions, and furniture. Electrical work comes with a 2-year warranty. Extended warranty options are also available.",
+          "Can work be done on weekends or after hours?",
+          "Yes, for operational offices and commercial spaces, we can schedule work during weekends or after business hours to minimize disruption. This may have a small scheduling surcharge."
+        ],
+        "images": [],
+        "headings": [
+          "Frequently Asked Questions",
+          "How long does a typical office fit-out take?",
+          "Do you provide 3D designs before starting work?",
+          "What is the minimum area you work with?",
+          "Can I use my existing furniture in the new design?",
+          "Do you offer warranties on the work?",
+          "Can work be done on weekends or after hours?"
+        ],
+        "reveals": [
+          "fade-right",
+          "fade-left"
+        ]
+      },
+      {
+        "id": null,
+        "classes": "cta-sec section-pad",
+        "texts": [
+          "Ready to Transform Your Space?",
+          "Get a free consultation and detailed quote for your interior project. Our design experts are just a call away.",
+          "Call: 90423 56696",
+          "WhatsApp Us"
+        ],
+        "images": [],
+        "headings": [
+          "Ready to Transform Your Space?"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "contact",
+        "classes": "section-pad",
+        "texts": [
+          "Get In Touch",
+          "Let's Discuss Your Project",
+          "Share your requirements and we'll get back to you with a detailed quote within 24 hours.",
+          "Phone",
+          "+91 90423 56696",
+          "WhatsApp",
+          "Chat on WhatsApp",
+          "Email",
+          "info@dhconstruction.in",
+          "Office",
+          "Pallavaram, Chennai, Tamil Nadu 600043",
+          "Working Hours",
+          "Mon–Sat: 9:00 AM – 7:00 PM",
+          "Sunday: By Appointment",
+          "Service Areas:",
+          "Pallavaram",
+          "Tambaram",
+          "Chengalpattu",
+          "Chromepet",
+          "Velachery",
+          "Kanchipuram",
+          "GST Road",
+          "Request a Free Quote",
+          "Fill in the details and we'll get back to you within 24 hours.",
+          "Full Name *",
+          "Phone Number *",
+          "Email",
+          "Space Type *",
+          "Select type",
+          "Corporate Office",
+          "Residential",
+          "Retail / Showroom",
+          "Restaurant / Café",
+          "Healthcare / Clinic",
+          "Other",
+          "Approx. Area (sq ft) *",
+          "Budget Range",
+          "Select budget",
+          "Below ₹2 Lakhs",
+          "₹2–5 Lakhs",
+          "₹5–10 Lakhs",
+          "₹10–25 Lakhs",
+          "Above ₹25 Lakhs",
+          "Project Details *",
+          "Send Enquiry"
+        ],
+        "images": [],
+        "headings": [
+          "Let's Discuss Your Project",
+          "Phone",
+          "WhatsApp",
+          "Email",
+          "Office",
+          "Working Hours",
+          "Request a Free Quote"
+        ],
+        "reveals": [
+          "fade-right",
+          "fade-left"
+        ]
+      }
+    ],
+    "previous_export_sections": 6,
+    "canvases": [
+      "heroCanvas"
+    ],
+    "keyframes": [
+      "badgeFloat",
+      "revealLine",
+      "sInR",
+      "sUp",
+      "waPulse"
+    ],
+    "counters": [
+      "200",
+      "15",
+      "98",
+      "50"
+    ],
+    "photo_placements": [
+      [
+        "hv-main",
+        "Modern Interior"
+      ],
+      [
+        "hv-accent",
+        "Office Interior"
+      ],
+      [
+        "space-card",
+        "Corporate Office"
+      ],
+      [
+        "space-card",
+        "Residential Interior"
+      ],
+      [
+        "space-card",
+        "Retail Store"
+      ],
+      [
+        "space-card",
+        "Restaurant"
+      ],
+      [
+        "space-card",
+        "Healthcare"
+      ],
+      [
+        "mat-img",
+        "Wood"
+      ],
+      [
+        "mat-img",
+        "Glass"
+      ],
+      [
+        "mat-img",
+        "Marble"
+      ],
+      [
+        "mat-img",
+        "Vinyl"
+      ],
+      [
+        "mat-img",
+        "Laminate"
+      ],
+      [
+        "mat-img",
+        "Gypsum"
+      ],
+      [
+        "mat-img",
+        "Acoustic"
+      ],
+      [
+        "mat-img",
+        "Hardware"
+      ],
+      [
+        "testi-author",
+        "Rajesh"
+      ],
+      [
+        "testi-author",
+        "Priya"
+      ],
+      [
+        "testi-author",
+        "Suresh"
+      ]
+    ]
+  },
+  "services/Infrastructure.html": {
+    "sections": [
+      {
+        "id": "hero",
+        "classes": "hero",
+        "texts": [
+          "Office Infrastructure & Fit-Out",
+          "Build Workspaces",
+          "That Drive",
+          "Productivity",
+          "&",
+          "Success",
+          "End-to-end office infrastructure — from partitions and ceilings to flooring, furniture, and complete workspace planning. Your vision, our execution.",
+          "Call: 90423 56696",
+          "WhatsApp Us",
+          "150",
+          "+",
+          "Offices Done",
+          "15",
+          "+",
+          "Years Exp.",
+          "2L",
+          "K+",
+          "Sq Ft Delivered",
+          "30",
+          "Days",
+          "Avg. Turnkey",
+          "150+ Offices",
+          "Successfully Delivered",
+          "Fast Track",
+          "30-Day Delivery"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+          "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=500&q=80"
+        ],
+        "headings": [
+          "Build Workspaces That Drive Productivity & Success",
+          "150+",
+          "15+",
+          "2LK+",
+          "30Days",
+          "150+ Offices",
+          "Fast Track"
+        ],
+        "reveals": []
+      },
+      {
+        "id": null,
+        "classes": "stats-strip section-pad-sm",
+        "texts": [
+          "0",
+          "+",
+          "Office Projects",
+          "0",
+          "Sq Ft Completed",
+          "0",
+          "+",
+          "Years Experience",
+          "0",
+          "%",
+          "On-Time Delivery"
+        ],
+        "images": [],
+        "headings": [
+          "0+",
+          "0",
+          "0+",
+          "0%"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "services",
+        "classes": "section-pad",
+        "texts": [
+          "What We Deliver",
+          "Complete Office Infrastructure",
+          "Every element of your workspace — designed, sourced, and installed under one roof.",
+          "Glass Partitions",
+          "Frameless and semi-frameless toughened glass partitions with aluminium or silicone joints for clean, modern workspace division.",
+          "Get Quote",
+          "Gypsum Partitions",
+          "Lightweight gypsum board partitions with steel framing — ideal for cabins, meeting rooms, and sound-insulated spaces.",
+          "Get Quote",
+          "False Ceiling",
+          "Gypsum and POP false ceiling systems with integrated lighting, AC ducts, and fire sprinkler provisions for a seamless look.",
+          "Get Quote",
+          "Flooring Solutions",
+          "Commercial-grade vinyl, carpet tiles, engineered wood, and anti-static flooring for offices, server rooms, and corridors.",
+          "Get Quote",
+          "Electrical & Lighting",
+          "Complete electrical wiring, LED panel lights, track lighting, emergency lighting, and data cabling infrastructure.",
+          "Get Quote",
+          "Workstation Furniture",
+          "Modular workstations, executive desks, conference tables, ergonomic chairs, and storage units from leading brands.",
+          "Get Quote",
+          "Painting & Wall Finish",
+          "Premium emulsion, textured, and accent wall painting with wallpaper installation and wall paneling options.",
+          "Get Quote",
+          "AC & Ventilation",
+          "Ducted AC, split AC installation, fresh air ventilation systems, and exhaust solutions integrated with ceiling design.",
+          "Get Quote",
+          "Doors & Hardware",
+          "Toughened glass doors, wooden flush doors, fire-rated doors, and premium hardware from Hettich, Hafele, and Godrej.",
+          "Get Quote"
+        ],
+        "images": [],
+        "headings": [
+          "Complete Office Infrastructure",
+          "Glass Partitions",
+          "Gypsum Partitions",
+          "False Ceiling",
+          "Flooring Solutions",
+          "Electrical & Lighting",
+          "Workstation Furniture",
+          "Painting & Wall Finish",
+          "AC & Ventilation",
+          "Doors & Hardware"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "process",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Our Approach",
+          "How We Deliver Your Office",
+          "A proven 6-step process that takes your office from empty shell to fully operational workspace.",
+          "Briefing",
+          "Understand team size, workflow & brand identity",
+          "Site Survey",
+          "Precise measurements & structural assessment",
+          "Space Planning",
+          "2D layouts, 3D views & material selection",
+          "Approval",
+          "Finalize design, scope & cost estimate",
+          "Execution",
+          "Skilled teams work in parallel for speed",
+          "Handover",
+          "Quality check, cleanup & move-in ready"
+        ],
+        "images": [],
+        "headings": [
+          "How We Deliver Your Office",
+          "Briefing",
+          "Site Survey",
+          "Space Planning",
+          "Approval",
+          "Execution",
+          "Handover"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "projects",
+        "classes": "section-pad",
+        "texts": [
+          "Portfolio",
+          "Recent Office Projects",
+          "A selection of completed office infrastructure and fit-out projects across Chennai.",
+          "Corporate",
+          "IT Company Office — OMR, Chennai",
+          "12,000 sq ft",
+          "35 Days",
+          "₹42 Lakhs",
+          "Co-Working",
+          "Co-Working Hub — Tambaram",
+          "8,500 sq ft",
+          "40 Days",
+          "₹28 Lakhs",
+          "Startup",
+          "FinTech Startup — Pallavaram",
+          "3,200 sq ft",
+          "20 Days",
+          "Conference",
+          "Boardroom & Meeting Suites — GST Road",
+          "2,000 sq ft",
+          "15 Days",
+          "Reception",
+          "Corporate Reception & Lobby — Chengalpattu",
+          "1,800 sq ft",
+          "12 Days"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+          "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&q=80",
+          "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&q=80",
+          "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?w=600&q=80",
+          "https://images.unsplash.com/photo-1577985043696-8bd54d9c4f17?w=600&q=80"
+        ],
+        "headings": [
+          "Recent Office Projects",
+          "IT Company Office — OMR, Chennai",
+          "Co-Working Hub — Tambaram",
+          "FinTech Startup — Pallavaram",
+          "Boardroom & Meeting Suites — GST Road",
+          "Corporate Reception & Lobby — Chengalpattu"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "why-us",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Why Choose Us",
+          "The DH Office Advantage",
+          "Fast Turnkey",
+          "30-day office setup from start to finish",
+          "Single Vendor",
+          "All services under one contract",
+          "Warranty Backed",
+          "2-year warranty on all work",
+          "Fixed Pricing",
+          "No hidden costs, transparent quotes",
+          "200+ Workers",
+          "Skilled in-house teams, no outsourcing",
+          "Daily Updates",
+          "Photo & video progress reports daily",
+          "After-Hours Work",
+          "Weekend & night shifts available",
+          "Clean Handover",
+          "Professional cleanup, move-in ready"
+        ],
+        "images": [],
+        "headings": [
+          "The DH Office Advantage",
+          "Fast Turnkey",
+          "Single Vendor",
+          "Warranty Backed",
+          "Fixed Pricing",
+          "200+ Workers",
+          "Daily Updates",
+          "After-Hours Work",
+          "Clean Handover"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "deliverables",
+        "classes": "section-pad",
+        "texts": [
+          "Deliverables",
+          "Everything Your Office Needs",
+          "Every project comes with a comprehensive scope of work. Here's what's typically included in our turnkey office fit-out:",
+          "Discuss Your Requirements",
+          "Glass Partitions",
+          "Frameless & framed systems",
+          "Gypsum Walls",
+          "Cabin & room division",
+          "False Ceiling",
+          "Gypsum grid with lights",
+          "Vinyl Flooring",
+          "Commercial-grade planks",
+          "Electrical Work",
+          "Wiring, switches, DB boards",
+          "LED Lighting",
+          "Panel, track & accent lights",
+          "Data Cabling",
+          "LAN, network points",
+          "Painting",
+          "Walls, ceilings & trims",
+          "Workstations",
+          "Modular desk systems",
+          "Glass Doors",
+          "Toughened with fittings",
+          "Branding Wall",
+          "Logo & reception design",
+          "Cleanup",
+          "Professional post-work cleanup"
+        ],
+        "images": [],
+        "headings": [
+          "Everything Your Office Needs",
+          "Glass Partitions",
+          "Gypsum Walls",
+          "False Ceiling",
+          "Vinyl Flooring",
+          "Electrical Work",
+          "LED Lighting",
+          "Data Cabling",
+          "Painting",
+          "Workstations",
+          "Glass Doors",
+          "Branding Wall",
+          "Cleanup"
+        ],
+        "reveals": [
+          "fade-right",
+          "fade-left"
+        ]
+      },
+      {
+        "id": "testimonials",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Client Feedback",
+          "What Our Clients Say",
+          "Real reviews from businesses that trusted us with their office setup.",
+          "\"DH Construction set up our 150-seater office in just 32 days. Glass partitions, false ceiling, workstations — everything was handled perfectly. Zero downtime for our business.\"",
+          "VK",
+          "Vikram Krishnan",
+          "CTO, DataCore Technologies — OMR",
+          "\"The quality of glass partition work and ceiling finish is outstanding. They worked on weekends so our operations weren't affected at all. Highly recommended!\"",
+          "AN",
+          "Anand Natarajan",
+          "Director, GreenLeaf Accounting — Tambaram",
+          "\"From 3D design to final handover, the process was seamless. The vinyl flooring and workstation layout they suggested improved our team's workflow significantly.\"",
+          "SL",
+          "Sunita Lakshmi",
+          "Founder, BrightPath Academy — Pallavaram"
+        ],
+        "images": [],
+        "headings": [
+          "What Our Clients Say",
+          "Vikram Krishnan",
+          "Anand Natarajan",
+          "Sunita Lakshmi"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "faq",
+        "classes": "section-pad",
+        "texts": [
+          "FAQ",
+          "Frequently Asked Questions",
+          "Common questions about our office infrastructure and fit-out services.",
+          "Still Have Questions?",
+          "What is the typical timeline for an office fit-out?",
+          "For a standard office of 2,000–5,000 sq ft, we complete the fit-out in 25–35 days. Larger spaces of 10,000+ sq ft typically take 45–60 days. We also offer fast-track options with parallel work streams to reduce timelines.",
+          "Do you work during weekends or after office hours?",
+          "Yes, this is one of our key advantages. We can schedule work during weekends, nights, or holidays to ensure zero disruption to your ongoing business operations. A small scheduling surcharge may apply.",
+          "What's included in a turnkey office fit-out?",
+          "Our turnkey package includes partitions (glass/gypsum), false ceiling, flooring, electrical & lighting, data cabling, painting, furniture installation, glass doors, branding wall, and professional cleanup — everything needed for a move-in ready office.",
+          "Can you work with our existing office layout?",
+          "Absolutely. We can reconfigure your existing layout, add new partitions, upgrade ceilings, or refresh flooring and painting. Partial fit-out and renovation services are available for offices that need upgrades without a full rebuild.",
+          "Do you provide 3D designs before starting?",
+          "Yes, for all projects above 3,000 sq ft, we provide detailed 3D visualizations of the planned workspace. For smaller projects, we provide 2D layout plans with material samples and finish references.",
+          "What warranty do you offer?",
+          "We provide a 2-year warranty on all civil and fit-out work including partitions, ceilings, and flooring. Electrical work carries a 2-year warranty. Furniture warranties are as per manufacturer terms. Post-warranty maintenance is available at competitive rates."
+        ],
+        "images": [],
+        "headings": [
+          "Frequently Asked Questions",
+          "What is the typical timeline for an office fit-out?",
+          "Do you work during weekends or after office hours?",
+          "What's included in a turnkey office fit-out?",
+          "Can you work with our existing office layout?",
+          "Do you provide 3D designs before starting?",
+          "What warranty do you offer?"
+        ],
+        "reveals": [
+          "fade-right",
+          "fade-left"
+        ]
+      },
+      {
+        "id": null,
+        "classes": "cta-sec section-pad",
+        "texts": [
+          "Plan Your Office Setup Today",
+          "Get a free site visit, detailed 3D proposal, and transparent quote — all within 48 hours of your enquiry.",
+          "Call: 90423 56696",
+          "WhatsApp Us"
+        ],
+        "images": [],
+        "headings": [
+          "Plan Your Office Setup Today"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "contact",
+        "classes": "section-pad",
+        "texts": [
+          "Get In Touch",
+          "Request a Free Site Visit",
+          "Share your office requirements and we'll schedule a free consultation with our design team.",
+          "Phone",
+          "+91 90423 56696",
+          "WhatsApp",
+          "Chat on WhatsApp",
+          "Email",
+          "info@dhconstruction.in",
+          "Office",
+          "Pallavaram, Chennai, Tamil Nadu 600043",
+          "Working Hours",
+          "Mon–Sat: 9:00 AM – 7:00 PM",
+          "Sunday: By Appointment",
+          "Service Areas:",
+          "OMR",
+          "GST Road",
+          "Tambaram",
+          "Pallavaram",
+          "Chromepet",
+          "Chengalpattu",
+          "Velachery",
+          "Kanchipuram",
+          "Request a Free Quote",
+          "Fill in your office details — we'll respond within 24 hours.",
+          "Full Name *",
+          "Phone Number *",
+          "Email",
+          "Company Name",
+          "Office Area (sq ft) *",
+          "Budget Range",
+          "Select budget",
+          "Below ₹5 Lakhs",
+          "₹5–10 Lakhs",
+          "₹10–25 Lakhs",
+          "₹25–50 Lakhs",
+          "Above ₹50 Lakhs",
+          "Services Required *",
+          "Select services",
+          "Complete Turnkey Fit-Out",
+          "Only Partitions (Glass/Gypsum)",
+          "Only False Ceiling",
+          "Only Flooring",
+          "Only Electrical & Lighting",
+          "Only Furniture Installation",
+          "Renovation / Upgrade",
+          "Other",
+          "Project Details *",
+          "Send Enquiry"
+        ],
+        "images": [],
+        "headings": [
+          "Request a Free Site Visit",
+          "Phone",
+          "WhatsApp",
+          "Email",
+          "Office",
+          "Working Hours",
+          "Request a Free Quote"
+        ],
+        "reveals": [
+          "fade-right",
+          "fade-left"
+        ]
+      }
+    ],
+    "previous_export_sections": 6,
+    "canvases": [
+      "heroCanvas"
+    ],
+    "keyframes": [
+      "badgeFloat",
+      "revealLine",
+      "sInR",
+      "sUp",
+      "waPulse"
+    ],
+    "counters": [
+      "150",
+      "200000",
+      "15",
+      "98"
+    ],
+    "photo_placements": [
+      [
+        "hv-main",
+        "Modern Office"
+      ],
+      [
+        "hv-accent",
+        "Glass Partition Office"
+      ],
+      [
+        "proj-img",
+        "Corporate Office"
+      ],
+      [
+        "proj-img",
+        "Co-Working Space"
+      ],
+      [
+        "proj-img",
+        "Startup Office"
+      ],
+      [
+        "proj-img",
+        "Conference Room"
+      ],
+      [
+        "proj-img",
+        "Reception Area"
+      ]
+    ]
+  },
+  "services/Glass.html": {
+    "sections": [
+      {
+        "id": "hero",
+        "classes": "hero",
+        "texts": [
+          "Glass & Gypsum Partitions",
+          "Divide Spaces",
+          "With",
+          "Elegance",
+          "&",
+          "Precision",
+          "Premium frameless glass partitions and gypsum wall systems that transform open floors into functional, aesthetic, and sound-controlled workspaces.",
+          "Call: 90423 56696",
+          "WhatsApp Us",
+          "500",
+          "+",
+          "Partitions Done",
+          "15",
+          "+",
+          "Years Exp.",
+          "1L",
+          "K+",
+          "Sq Ft Covered",
+          "10",
+          "Days",
+          "Avg. Install",
+          "12mm Toughened",
+          "Safety Glass",
+          "10-Day Fix",
+          "Quick Install"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&q=80",
+          "https://images.unsplash.com/photo-1497366216548-37526070297c?w=500&q=80"
+        ],
+        "headings": [
+          "Divide Spaces With Elegance & Precision",
+          "500+",
+          "15+",
+          "1LK+",
+          "10Days",
+          "12mm Toughened",
+          "10-Day Fix"
+        ],
+        "reveals": []
+      },
+      {
+        "id": null,
+        "classes": "stats-strip section-pad-sm",
+        "texts": [
+          "0",
+          "+",
+          "Partitions Installed",
+          "0",
+          "Sq Ft Partitioned",
+          "0",
+          "+",
+          "Years Experience",
+          "0",
+          "%",
+          "Client Satisfaction"
+        ],
+        "images": [],
+        "headings": [
+          "0+",
+          "0",
+          "0+",
+          "0%"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "types",
+        "classes": "section-pad",
+        "texts": [
+          "Our Range",
+          "Partition Systems We Offer",
+          "From sleek frameless glass to sound-proofed gypsum — find the right partition for every need.",
+          "Frameless Glass Partition",
+          "Clean, minimal glass-to-glass joints using silicone or transparent structural adhesive. No visible aluminium — pure transparency.",
+          "12mm Toughened",
+          "U-Channel Base",
+          "Silicone Joints",
+          "Top Patch Fitting",
+          "Get Quote",
+          "Aluminium Framed Glass",
+          "Sturdy aluminium profile frames with glass infill panels. Ideal for high-traffic areas requiring extra structural support.",
+          "10-12mm Glass",
+          "Anodised Frame",
+          "Lockable Doors",
+          "Blind Compatible",
+          "Get Quote",
+          "Sliding Glass Partition",
+          "Top-hung sliding glass panels on aluminium tracks. Perfect for flexible spaces that need to open up or close off instantly.",
+          "10mm Toughened",
+          "Top Rail System",
+          "Soft-Close",
+          "Stacking Option",
+          "Get Quote",
+          "Gypsum Board Partition",
+          "Lightweight yet strong partitions using GI steel framing with gypsum board on both sides. Paint-ready surface for any finish.",
+          "12.5mm Board",
+          "GI Stud Frame",
+          "Insulation Fill",
+          "Paint Ready",
+          "Get Quote",
+          "Acoustic Gypsum Partition",
+          "Double-layered gypsum with acoustic mineral wool insulation inside. Achieves STC 40-50+ for meeting rooms and cabins.",
+          "Double Board",
+          "Mineral Wool Fill",
+          "STC 40-50",
+          "Acoustic Sealant",
+          "Get Quote",
+          "Demountable Partition",
+          "Re-usable modular partition system that can be dismantled and re-installed at a new location. Ideal for rented offices.",
+          "Re-locatable",
+          "Fabric/Metal Finish",
+          "Quick Assembly",
+          "Cost Effective",
+          "Get Quote"
+        ],
+        "images": [],
+        "headings": [
+          "Partition Systems We Offer",
+          "Frameless Glass Partition",
+          "Aluminium Framed Glass",
+          "Sliding Glass Partition",
+          "Gypsum Board Partition",
+          "Acoustic Gypsum Partition",
+          "Demountable Partition"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "compare",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Compare",
+          "Glass vs Gypsum — At a Glance",
+          "Not sure which partition type suits your space? Here's a side-by-side comparison to help you decide.",
+          "Feature",
+          "Glass Partition",
+          "Gypsum Partition",
+          "Transparency",
+          "Full visual openness",
+          "Opaque / solid wall",
+          "Sound Insulation",
+          "Moderate (28-32 dB)",
+          "Excellent (40-50 dB)",
+          "Installation Time",
+          "7-10 days",
+          "10-15 days",
+          "Re-locatable",
+          "Yes, fully movable",
+          "No, fixed structure",
+          "Painting Needed",
+          "No — ready to use",
+          "Yes — 2-3 coats needed",
+          "Natural Light Flow",
+          "Maximum light pass",
+          "Blocks light completely",
+          "Privacy Level",
+          "Low (use blinds/film)",
+          "Full privacy",
+          "Cost (per sq ft)",
+          "₹140 – ₹220",
+          "₹70 – ₹120",
+          "Fire Rating",
+          "Up to 60 min (rated)",
+          "Up to 120 min",
+          "Best For",
+          "Offices, cabins, lobbies",
+          "Meeting rooms, server rooms",
+          "Still confused?",
+          "Talk to our expert",
+          "— we'll recommend the best solution for your space."
+        ],
+        "images": [],
+        "headings": [
+          "Glass vs Gypsum — At a Glance"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "specs",
+        "classes": "section-pad",
+        "texts": [
+          "Technical Data",
+          "Specifications You Can Trust",
+          "Every partition we install meets Indian standards and uses certified materials from reputed manufacturers.",
+          "12",
+          "mm",
+          "Glass Thickness",
+          "Toughened Safety Glass",
+          "IS 2553 (Part 1) certified",
+          "12.5",
+          "mm",
+          "Board Thickness",
+          "Gypsum Board",
+          "IS 2095 certified, moisture resistant",
+          "50",
+          "dB",
+          "STC Rating",
+          "Acoustic Performance",
+          "Double-layer gypsum with wool fill",
+          "120",
+          "min",
+          "Fire Rating",
+          "Fire Resistance",
+          "As per IS 3614 standards",
+          "75",
+          "mm",
+          "Wall Thickness",
+          "Total Partition Depth",
+          "Including frame & boards",
+          "2.4",
+          "m",
+          "Max Height",
+          "Single Panel Span",
+          "Without intermediate support",
+          "48",
+          "kg",
+          "Per Sq Meter",
+          "Gypsum Wall Weight",
+          "Lightweight vs brick (240 kg)",
+          "10",
+          "yr",
+          "Durability",
+          "Expected Lifespan",
+          "With proper maintenance"
+        ],
+        "images": [],
+        "headings": [
+          "Specifications You Can Trust",
+          "Toughened Safety Glass",
+          "Gypsum Board",
+          "Acoustic Performance",
+          "Fire Resistance",
+          "Total Partition Depth",
+          "Single Panel Span",
+          "Gypsum Wall Weight",
+          "Expected Lifespan"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "industries",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Applications",
+          "Right Partition for Every Industry",
+          "Different industries have different needs — here's what we recommend for each.",
+          "IT & Software Companies",
+          "Open workstations with glass cabins for team leads and meeting rooms. Maximizes natural light and visual connectivity.",
+          "Frameless Glass",
+          "Sliding Partitions",
+          "Frosted Film",
+          "Banking & Finance",
+          "Secure cabins with acoustic gypsum for confidential discussions. Glass fronts for reception and customer-facing areas.",
+          "Acoustic Gypsum",
+          "Framed Glass",
+          "Fire-Rated",
+          "Healthcare & Clinics",
+          "Hygienic, easy-to-clean gypsum partitions for consultation rooms. Glass partitions for reception and waiting areas.",
+          "Moisture-Resistant Gypsum",
+          "Frameless Glass",
+          "Education & Training",
+          "Classroom dividers with acoustic insulation to prevent sound bleed between sessions. Durable and low-maintenance.",
+          "Acoustic Gypsum",
+          "Sliding Partitions",
+          "Writing Surface",
+          "Legal & Consulting Firms",
+          "Private cabins with high STC acoustic partitions for attorney-client confidentiality. Professional glass entry walls.",
+          "Double-Layer Acoustic",
+          "Frosted Glass",
+          "Timber Veneer",
+          "Retail & Showrooms",
+          "Glass partitions to create product zones while maintaining visibility. Back-office areas with gypsum for storage and staff rooms.",
+          "Frameless Glass",
+          "Gypsum Storage",
+          "Branding Film"
+        ],
+        "images": [],
+        "headings": [
+          "Right Partition for Every Industry",
+          "IT & Software Companies",
+          "Banking & Finance",
+          "Healthcare & Clinics",
+          "Education & Training",
+          "Legal & Consulting Firms",
+          "Retail & Showrooms"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "timeline",
+        "classes": "section-pad",
+        "texts": [
+          "Installation",
+          "Day-by-Day Timeline",
+          "A typical 3,000 sq ft office partition project — from marking to handover in just 10 working days.",
+          "Parallel Work Streams",
+          "We run ceiling, flooring, and electrical teams in parallel with partition work to compress overall project timelines significantly.",
+          "Site Marking & Layout",
+          "Day 1",
+          "Mark partition lines on floor and ceiling as per approved drawing. Verify electrical points, door positions, and AC duct locations.",
+          "Frame & Track Installation",
+          "Day 2–3",
+          "Install aluminium U-channels at floor and ceiling for glass. For gypsum — erect GI stud framing at marked positions.",
+          "Glass Cutting & Delivery",
+          "Day 3–4",
+          "Toughened glass panels cut to size at factory, delivered to site. Gypsum boards measured and cut on-site for precise fitting.",
+          "Panel Fixing",
+          "Day 5–7",
+          "Glass panels lifted and fixed into channels with silicone. Gypsum boards screwed to steel frame with joint compound applied.",
+          "Door & Hardware Fitting",
+          "Day 8",
+          "Glass doors with patch fittings, floor springs, and locks installed. Gypsum doors framed and hung with hardware.",
+          "Finishing & Cleanup",
+          "Day 9–10",
+          "Silicone cleanup, joint finishing, touch-up painting for gypsum, blind installation for glass, and full site cleanup for handover."
+        ],
+        "images": [],
+        "headings": [
+          "Day-by-Day Timeline",
+          "Parallel Work Streams",
+          "Site Marking & Layout Day 1",
+          "Frame & Track Installation Day 2–3",
+          "Glass Cutting & Delivery Day 3–4",
+          "Panel Fixing Day 5–7",
+          "Door & Hardware Fitting Day 8",
+          "Finishing & Cleanup Day 9–10"
+        ],
+        "reveals": [
+          "fade-right",
+          "fade-left"
+        ]
+      },
+      {
+        "id": "projects",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Portfolio",
+          "Recent Partition Projects",
+          "Selected projects showcasing our glass and gypsum partition expertise.",
+          "Frameless Glass",
+          "IT Park — OMR, Chennai",
+          "15,000 sq ft",
+          "12 Days",
+          "₹28 Lakhs",
+          "Acoustic Gypsum",
+          "Corporate Office — GST Road",
+          "8,000 sq ft",
+          "14 Days",
+          "₹12 Lakhs",
+          "Sliding Glass",
+          "Co-Working Space — Tambaram",
+          "5,000 sq ft",
+          "8 Days",
+          "Framed Glass + Gypsum",
+          "Bank Branch — Chengalpattu",
+          "3,500 sq ft",
+          "10 Days",
+          "Gypsum + Glass",
+          "Diagnostic Centre — Pallavaram",
+          "2,800 sq ft",
+          "9 Days"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&q=80",
+          "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+          "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&q=80",
+          "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?w=600&q=80",
+          "https://images.unsplash.com/photo-1577985043696-8bd54d9c4f17?w=600&q=80"
+        ],
+        "headings": [
+          "Recent Partition Projects",
+          "IT Park — OMR, Chennai",
+          "Corporate Office — GST Road",
+          "Co-Working Space — Tambaram",
+          "Bank Branch — Chengalpattu",
+          "Diagnostic Centre — Pallavaram"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "faq",
+        "classes": "section-pad",
+        "texts": [
+          "FAQ",
+          "Partition-Specific Questions",
+          "Common queries about glass and gypsum partition materials, installation, and maintenance.",
+          "Ask Your Question",
+          "Is toughened glass safe for office partitions?",
+          "Absolutely. We use 12mm toughened (tempered) glass that is 4-5 times stronger than regular glass. If it breaks, it shatters into small, blunt granules instead of sharp shards — making it completely safe for office environments. All our glass is IS 2553 certified.",
+          "Can I add blinds or frosted film to glass partitions?",
+          "Yes, both options are available. We offer integrated between-glass blinds (sealed within double-glazed units), manual roller blinds, and frosted/etched vinyl films. Films can be full frosted, gradient, or custom-patterned with your branding.",
+          "How much weight can a glass partition hold?",
+          "A standard 12mm toughened glass partition with proper U-channel fixing can safely hold light loads like blinds, small shelves, and whiteboards. For heavy loads (TV screens, storage), we use reinforced framed systems with additional support brackets.",
+          "Can gypsum partitions be removed later?",
+          "Standard gypsum partitions are fixed structures and removal involves demolition — but they cause minimal damage compared to brick walls since they're lightweight. If you need re-locatable walls, we recommend our demountable partition system which can be unbolted and re-installed elsewhere.",
+          "Do partitions need ceiling to be done first?",
+          "Not necessarily. In most projects, we install partitions and false ceiling in parallel — the partition top channel integrates with the ceiling grid. This parallel approach saves 5-7 days compared to sequential work. Our team coordinates both work streams simultaneously.",
+          "What's the difference between acoustic and regular gypsum?",
+          "Regular gypsum partitions use single 12.5mm boards on both sides of a steel frame — providing ~30 dB sound reduction. Acoustic partitions use double boards (2×12.5mm on each side) with mineral wool insulation inside the cavity — achieving 40-50 dB reduction, making conversations inaudible outside."
+        ],
+        "images": [],
+        "headings": [
+          "Partition-Specific Questions",
+          "Is toughened glass safe for office partitions?",
+          "Can I add blinds or frosted film to glass partitions?",
+          "How much weight can a glass partition hold?",
+          "Can gypsum partitions be removed later?",
+          "Do partitions need ceiling to be done first?",
+          "What's the difference between acoustic and regular gypsum?"
+        ],
+        "reveals": [
+          "fade-right",
+          "fade-left"
+        ]
+      },
+      {
+        "id": null,
+        "classes": "cta-sec section-pad",
+        "texts": [
+          "Ready to Partition Your Space?",
+          "Get a free site measurement, detailed drawing, and competitive quote — all within 24 hours.",
+          "Call: 90423 56696",
+          "WhatsApp Us"
+        ],
+        "images": [],
+        "headings": [
+          "Ready to Partition Your Space?"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "contact",
+        "classes": "section-pad",
+        "texts": [
+          "Get In Touch",
+          "Request a Free Measurement",
+          "Share your partition requirements and we'll schedule a free site visit with measurement.",
+          "Phone",
+          "+91 90423 56696",
+          "WhatsApp",
+          "Chat on WhatsApp",
+          "Email",
+          "info@dhconstruction.in",
+          "Office",
+          "Pallavaram, Chennai, Tamil Nadu 600043",
+          "Working Hours",
+          "Mon–Sat: 9:00 AM – 7:00 PM",
+          "Sunday: By Appointment",
+          "Service Areas:",
+          "OMR",
+          "GST Road",
+          "Tambaram",
+          "Pallavaram",
+          "Chromepet",
+          "Velachery",
+          "Chengalpattu",
+          "Kanchipuram",
+          "Get a Partition Quote",
+          "Share your details — we'll respond within 24 hours with a detailed estimate.",
+          "Full Name *",
+          "Phone Number *",
+          "Partition Type *",
+          "Select type",
+          "Frameless Glass",
+          "Aluminium Framed Glass",
+          "Sliding Glass",
+          "Gypsum Board",
+          "Acoustic Gypsum",
+          "Demountable",
+          "Not Sure — Need Advice",
+          "Approx. Area (sq ft) *",
+          "Number of Doors",
+          "Select",
+          "1-2 Doors",
+          "3-5 Doors",
+          "6-10 Doors",
+          "More than 10",
+          "Acoustic Requirement?",
+          "Select",
+          "Yes — High privacy needed",
+          "Moderate — Some sound control",
+          "No — Standard is fine",
+          "Project Details *",
+          "Send Enquiry"
+        ],
+        "images": [],
+        "headings": [
+          "Request a Free Measurement",
+          "Phone",
+          "WhatsApp",
+          "Email",
+          "Office",
+          "Working Hours",
+          "Get a Partition Quote"
+        ],
+        "reveals": [
+          "fade-right",
+          "fade-left"
+        ]
+      }
+    ],
+    "previous_export_sections": 7,
+    "canvases": [
+      "heroCanvas"
+    ],
+    "keyframes": [
+      "badgeFloat",
+      "revealLine",
+      "sInR",
+      "sUp",
+      "waPulse"
+    ],
+    "counters": [
+      "500",
+      "100000",
+      "15",
+      "99"
+    ],
+    "photo_placements": [
+      [
+        "hv-main",
+        "Glass Partition Office"
+      ],
+      [
+        "hv-accent",
+        "Modern Office Partitions"
+      ],
+      [
+        "proj-img",
+        "Glass Partition Project"
+      ],
+      [
+        "proj-img",
+        "Gypsum Partition Project"
+      ],
+      [
+        "proj-img",
+        "Sliding Partition"
+      ],
+      [
+        "proj-img",
+        "Bank Partitions"
+      ],
+      [
+        "proj-img",
+        "Clinic Partitions"
+      ]
+    ]
+  },
+  "services/falseceling.html": {
+    "sections": [
+      {
+        "id": "hero",
+        "classes": "hero",
+        "texts": [
+          "False Ceiling & Painting Specialists",
+          "Ceilings That",
+          "Define",
+          "Spaces",
+          "& Walls That",
+          "Speak",
+          "Designer false ceilings with integrated lighting, paired with flawless painting finishes — transforming ordinary rooms into extraordinary spaces.",
+          "Call: 90423 56696",
+          "WhatsApp Us",
+          "600",
+          "+",
+          "Ceiling Projects",
+          "15",
+          "+",
+          "Years Exp.",
+          "80K",
+          "+",
+          "Sq Ft Done",
+          "7",
+          "Days",
+          "Avg. Ceiling",
+          "Flawless Finish",
+          "Zero Visible Joints",
+          "500+ Colors",
+          "Asian, Berger, Nippon"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=500&q=80"
+        ],
+        "headings": [
+          "Ceilings That Define Spaces & Walls That Speak",
+          "600+",
+          "15+",
+          "80K+",
+          "7Days",
+          "Flawless Finish",
+          "500+ Colors"
+        ],
+        "reveals": []
+      },
+      {
+        "id": null,
+        "classes": "stats-strip section-pad-sm",
+        "texts": [
+          "0",
+          "+",
+          "Ceiling Projects",
+          "0",
+          "Sq Ft Ceilings",
+          "0",
+          "+",
+          "Years Experience",
+          "0",
+          "%",
+          "Joint-Free Finish"
+        ],
+        "images": [],
+        "headings": [
+          "0+",
+          "0",
+          "0+",
+          "0%"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "ceilings",
+        "classes": "section-pad",
+        "texts": [
+          "Ceiling Designs",
+          "False Ceiling Styles We Craft",
+          "From simple grid layouts to elaborate coffered designs — find the perfect ceiling for your space.",
+          "Grid Ceiling",
+          "Standard 600×600mm tile grid using exposed or concealed T-framework. Most economical for large office floors.",
+          "Offices",
+          "Corridors",
+          "Retail",
+          "Plain / Flush Ceiling",
+          "Seamless gypsum board ceiling with no visible grid. Joints taped and finished for a smooth monolithic look.",
+          "Conference",
+          "Lobbies",
+          "Homes",
+          "Coffered Ceiling",
+          "Sunken rectangular panels creating a geometric pattern. Adds depth and luxury to executive rooms and lobbies.",
+          "Boardrooms",
+          "Lobbies",
+          "Hotels",
+          "Perimeter / Tray Ceiling",
+          "Drop ceiling along the edges with a raised center. Creates a floating frame effect with indirect cove lighting.",
+          "Living Rooms",
+          "Bedrooms",
+          "Dining",
+          "Curved / Arched Ceiling",
+          "Flexible gypsum board bent into curves and arches. Perfect for feature areas and contemporary design statements.",
+          "Reception",
+          "Lounges",
+          "Boutiques",
+          "Integrated Lighting Ceiling",
+          "False ceiling designed specifically for recessed LED panels, strip lights, spotlights, and chandelier mounting points.",
+          "All Spaces",
+          "Custom Design"
+        ],
+        "images": [],
+        "headings": [
+          "False Ceiling Styles We Craft",
+          "Grid Ceiling",
+          "Plain / Flush Ceiling",
+          "Coffered Ceiling",
+          "Perimeter / Tray Ceiling",
+          "Curved / Arched Ceiling",
+          "Integrated Lighting Ceiling"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "painting",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Painting Services",
+          "Complete Painting Solutions",
+          "From basic fresh coats to premium textured finishes — we handle every painting need with precision.",
+          "Interior Emulsion",
+          "Smooth, washable finish for walls and ceilings. 2-3 coats of premium plastic or acrylic emulsion.",
+          "Texture Painting",
+          "Decorative textured finishes — sand, stone, rustic, and designer patterns for accent walls.",
+          "Accent Walls",
+          "Bold single-wall highlights with contrasting colors, murals, or metallic finishes.",
+          "Metallic Finish",
+          "Gold, silver, copper, and bronze metallic paint for luxury interiors and feature walls.",
+          "Distemper",
+          "Budget-friendly painting for new construction and rental properties. Clean, matte finish.",
+          "Exterior Painting",
+          "Weather-proof exterior emulsion with primer, waterproofing, and anti-fungal treatment."
+        ],
+        "images": [],
+        "headings": [
+          "Complete Painting Solutions",
+          "Interior Emulsion",
+          "Texture Painting",
+          "Accent Walls",
+          "Metallic Finish",
+          "Distemper",
+          "Exterior Painting"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "workflow",
+        "classes": "section-pad",
+        "texts": [
+          "Parallel Workflow",
+          "Ceiling & Painting — Side by Side",
+          "We run ceiling and painting work in parallel tracks to deliver your project in minimum time.",
+          "False Ceiling Track",
+          "Day 1",
+          "Layout Marking",
+          "Mark ceiling level, light points, AC vents on walls",
+          "Day 2",
+          "Framework Installation",
+          "Fix GI channels at marked level, install cross tees",
+          "Day 3–4",
+          "Board Fixing",
+          "Cut and screw gypsum boards to framework",
+          "Day 5",
+          "Joint Finishing",
+          "Tape joints, apply 2 coats of compound, sand smooth",
+          "Day 6",
+          "Primer Coat",
+          "Apply ceiling primer, cut openings for lights/vents",
+          "Painting Track",
+          "Day 1",
+          "Surface Preparation",
+          "Wall cleaning, putty patching, crack filling",
+          "Day 2–3",
+          "Putty Work (2 Coats)",
+          "Apply 2 coats of wall putty, sand between coats",
+          "Day 4",
+          "Primer Application",
+          "1 coat of primer for adhesion and uniformity",
+          "Day 5–6",
+          "1st & 2nd Coat Paint",
+          "Apply 2 coats of emulsion with drying time between",
+          "Day 7",
+          "Touch-Up & Cleanup",
+          "Final touch-ups, edge cutting, masking removal",
+          "Parallel execution saves",
+          "4–5 days",
+          "vs. sequential work"
+        ],
+        "images": [],
+        "headings": [
+          "Ceiling & Painting — Side by Side",
+          "Layout Marking",
+          "Framework Installation",
+          "Board Fixing",
+          "Joint Finishing",
+          "Primer Coat",
+          "Surface Preparation",
+          "Putty Work (2 Coats)",
+          "Primer Application",
+          "1st & 2nd Coat Paint",
+          "Touch-Up & Cleanup"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-right",
+          "fade-left",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "materials",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Materials",
+          "Our Material Palette",
+          "Premium materials from trusted brands — every product selected for durability and finish quality.",
+          "Snow White",
+          "Ivory Cream",
+          "Warm Beige",
+          "Sage Green",
+          "Dusty Blue",
+          "Mocha Tan",
+          "Blush Pink",
+          "Silver Grey",
+          "Charcoal",
+          "Deep Navy",
+          "Gold Metallic",
+          "Silver Metallic",
+          "Gypsum Board",
+          "Standard 12.5mm gypsum boards for false ceiling and wall partition applications.",
+          "Brands: Saint-Gobain, BPB, Local",
+          "Fire-rated options available",
+          "Moisture-resistant for wet areas",
+          "POP (Plaster of Paris)",
+          "Traditional POP for decorative ceiling elements, medallions, and curved designs.",
+          "Hand-applied for custom shapes",
+          "Smooth white finish",
+          "Ideal for cornices & borders",
+          "GI Framework",
+          "Galvanized iron channels and tees that form the structural skeleton of the ceiling.",
+          "0.35mm–0.50mm thickness",
+          "Anti-corrosion coated",
+          "Exposed or concealed grid",
+          "Interior Emulsion",
+          "Premium washable emulsion paints for smooth, durable wall and ceiling finishes.",
+          "Asian Paints, Berger, Nerolac",
+          "Sheen: Matt / Satin / Silk",
+          "5-8 year warranty",
+          "Wall Putty",
+          "Acrylic or cement-based putty for filling imperfections and creating a smooth paint base.",
+          "2-coat application standard",
+          "Anti-crack formulations",
+          "Sandable to mirror finish",
+          "Primer & Sealer",
+          "Quality primers for adhesion, porosity sealing, and alkali resistance on new surfaces.",
+          "Water-based or oil-based",
+          "Reduces paint consumption",
+          "Essential for longevity"
+        ],
+        "images": [],
+        "headings": [
+          "Our Material Palette",
+          "Gypsum Board",
+          "POP (Plaster of Paris)",
+          "GI Framework",
+          "Interior Emulsion",
+          "Wall Putty",
+          "Primer & Sealer"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "transform",
+        "classes": "section-pad",
+        "texts": [
+          "Transformations",
+          "The Difference We Make",
+          "See how ceiling and painting work completely transforms the look and feel of a space.",
+          "Before",
+          "Bare Concrete Slab",
+          "Exposed beams, uneven surface, hanging wires, no lighting integration",
+          "After",
+          "Designer Flush Ceiling",
+          "Seamless gypsum ceiling with recessed LEDs, cove lighting, clean finish",
+          "Before",
+          "Cracked, Patchy Walls",
+          "Filled nail holes, water stains, uneven color, peeling old paint",
+          "After",
+          "Pristine Painted Walls",
+          "Putty-finished, primed, 2-coat emulsion with sharp edge cutting",
+          "Before",
+          "Flat Boring Office",
+          "No visual hierarchy, same color everywhere, no feature elements",
+          "After",
+          "Branded Vibrant Space",
+          "Accent walls, textured features, branded colors, ceiling highlights"
+        ],
+        "images": [],
+        "headings": [
+          "The Difference We Make",
+          "Bare Concrete Slab",
+          "Designer Flush Ceiling",
+          "Cracked, Patchy Walls",
+          "Pristine Painted Walls",
+          "Flat Boring Office",
+          "Branded Vibrant Space"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "estimator",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Quick Estimate",
+          "Instant Cost Calculator",
+          "Get a rough estimate in seconds. For exact pricing, we'll do a free site visit.",
+          "Area in Square Feet",
+          "Ceiling Type",
+          "No Ceiling",
+          "Grid Ceiling",
+          "Gypsum Flush",
+          "Designer Ceiling",
+          "Coffered / Curved",
+          "Painting Type",
+          "No Painting",
+          "Distemper",
+          "Emulsion",
+          "Texture Paint",
+          "Metallic Finish",
+          "₹2,56,000",
+          "Estimated range for selected options (inclusive of material + labour)",
+          "Get Exact Quote — Free Site Visit"
+        ],
+        "images": [],
+        "headings": [
+          "Instant Cost Calculator"
+        ],
+        "reveals": [
+          "fade-up"
+        ]
+      },
+      {
+        "id": "mistakes",
+        "classes": "section-pad",
+        "texts": [
+          "Avoid These",
+          "Common Ceiling & Painting Mistakes",
+          "These are the mistakes we see in DIY or low-quality work. We ensure none of these happen on your project.",
+          "Our Quality Guarantee",
+          "Every project goes through a 7-point quality checklist before handover — including joint inspection, paint coverage test, light alignment check, and edge finish verification.",
+          "1",
+          "Visible Joints",
+          "Poor taping and insufficient compound coats leave visible seam lines on the ceiling.",
+          "2",
+          "Skipping Putty",
+          "Painting directly on plaster without putty leads to uneven absorption and patchy appearance.",
+          "3",
+          "Wrong Primer",
+          "Using interior primer on exterior or skipping primer entirely causes premature paint failure.",
+          "4",
+          "Uneven Level",
+          "Ceiling marked at wrong height or framework not leveled — leads to a visibly tilted ceiling.",
+          "5",
+          "No Light Planning",
+          "Installing ceiling without pre-planning light positions leads to ugly retrofits and exposed wires.",
+          "6",
+          "Single Paint Coat",
+          "Applying only one coat to save cost results in poor coverage, streaks, and uneven color."
+        ],
+        "images": [],
+        "headings": [
+          "Common Ceiling & Painting Mistakes",
+          "Our Quality Guarantee",
+          "Visible Joints",
+          "Skipping Putty",
+          "Wrong Primer",
+          "Uneven Level",
+          "No Light Planning",
+          "Single Paint Coat"
+        ],
+        "reveals": [
+          "fade-right",
+          "fade-left"
+        ]
+      },
+      {
+        "id": "projects",
+        "classes": "section-pad-sm",
+        "texts": [
+          "Portfolio",
+          "Recent Ceiling & Painting Projects",
+          "Selected projects showcasing our ceiling design and painting finish quality.",
+          "Designer Ceiling",
+          "Corporate Office — OMR, Chennai",
+          "10,000 sq ft",
+          "8 Days",
+          "₹18 Lakhs",
+          "Ceiling + Painting",
+          "Villa Interior — Pallavaram",
+          "3,500 sq ft",
+          "12 Days",
+          "₹4.5 Lakhs",
+          "Grid Ceiling",
+          "IT Office — Tambaram",
+          "6,000 sq ft",
+          "6 Days",
+          "Texture Painting",
+          "Restaurant — GST Road",
+          "2,800 sq ft",
+          "5 Days",
+          "Coffered Ceiling",
+          "Boardroom — Chengalpattu",
+          "1,200 sq ft",
+          "7 Days"
+        ],
+        "images": [
+          "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+          "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=600&q=80",
+          "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=600&q=80",
+          "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=600&q=80"
+        ],
+        "headings": [
+          "Recent Ceiling & Painting Projects",
+          "Corporate Office — OMR, Chennai",
+          "Villa Interior — Pallavaram",
+          "IT Office — Tambaram",
+          "Restaurant — GST Road",
+          "Boardroom — Chengalpattu"
+        ],
+        "reveals": [
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up",
+          "fade-up"
+        ]
+      },
+      {
+        "id": "faq",
+        "classes": "section-pad",
+        "texts": [
+          "FAQ",
+          "Ceiling & Painting Questions",
+          "Common queries about false ceiling materials, painting processes, and maintenance.",
+          "Ask Your Question",
+          "How long does a false ceiling last?",
+          "A well-installed gypsum false ceiling lasts 15-20 years without any issues. The key factors are quality of framework (GI thickness), proper screw spacing, and joint finishing. We use 0.40mm GI framework which ensures long-term stability. Popcorn or textured ceilings may need refreshing every 8-10 years.",
+          "Does false ceiling reduce room height?",
+          "Yes, typically 4-6 inches of height is lost. For a standard 10ft ceiling, the finished height becomes approximately 9.5ft. For low-height rooms (below 9ft), we recommend perimeter tray ceilings that drop only the edges, keeping the center at full height while still hiding services.",
+          "How many coats of paint are actually needed?",
+          "The standard professional process is: 2 coats putty + 1 coat primer + 2 coats emulsion = 5 total layers. Some dark colors may need 3 coats of emulsion. We never skip steps — each layer serves a specific purpose (filling, sealing, color coverage, durability).",
+          "Can AC vents and fire sprinklers be integrated?",
+          "Absolutely — this is one of the primary reasons for installing a false ceiling. We coordinate with your AC contractor and fire safety team to create precise cutouts for supply/return vents, cassette AC units, fire sprinklers, smoke detectors, and CCTV cameras. All openings are finished with proper trim rings.",
+          "What's the difference between POP and gypsum ceiling?",
+          "POP (Plaster of Paris) is hand-applied wet material — great for decorative elements like medallions, cornices, and curved designs but slower and messier. Gypsum boards are factory-made panels screwed to a metal frame — faster, cleaner, more consistent, and better for large flat areas. We use both depending on the design requirement.",
+          "Is false ceiling safe during earthquakes?",
+          "Gypsum false ceilings are lightweight (approximately 8-10 kg per sq meter vs 240 kg for brick) and flex with the building during seismic activity. They don't add significant load to the structure. However, they can crack at joints during strong tremors — which is repairable. We use proper cross-bracing in the framework for added stability."
+        ],
+        "images": [],
+        "headings": [
+          "Ceiling & Painting Questions",
+          "How long does a false ceiling last?",
+          "Does false ceiling reduce room height?",
+          "How many coats of paint are actually needed?",
+          "Can AC vents and fire sprinklers be integrated?",
+          "What's the difference between POP and gypsum ceiling?",
+          "Is false ceiling safe during earthquakes?"
+        ],
+        "reveals": [
+          "fade-right",
+          "fade-left"
+        ]
+      },
+      {
+        "id": null,
+        "classes": "cta-sec section-pad",
+        "texts": [
+          "Ready to Transform Your Ceiling & Walls?",
+          "Free site visit, color consultation, and detailed estimate — all within 24 hours.",
+          "Call: 90423 56696",
+          "WhatsApp Us"
+        ],
+        "images": [],
+        "headings": [
+          "Ready to Transform Your Ceiling & Walls?"
+        ],
+        "reveals": []
+      },
+      {
+        "id": "contact",
+        "classes": "section-pad",
+        "texts": [
+          "Get In Touch",
+          "Request a Free Consultation",
+          "Share your ceiling and painting requirements — we'll visit your site with material samples.",
+          "Phone",
+          "+91 90423 56696",
+          "WhatsApp",
+          "Chat on WhatsApp",
+          "Email",
+          "info@dhconstruction.in",
+          "Office",
+          "Pallavaram, Chennai, Tamil Nadu 600043",
+          "Service Areas:",
+          "OMR",
+          "GST Road",
+          "Tambaram",
+          "Pallavaram",
+          "Chromepet",
+          "Velachery",
+          "Chengalpattu",
+          "Get a Ceiling & Painting Quote",
+          "We'll bring material samples to your site visit.",
+          "Full Name *",
+          "Phone Number *",
+          "Service Needed *",
+          "Select",
+          "False Ceiling Only",
+          "Painting Only",
+          "Both Ceiling + Painting",
+          "Ceiling Repair / Repaint",
+          "Area (sq ft) *",
+          "Ceiling Preference",
+          "Select",
+          "Grid / Exposed",
+          "Gypsum Flush",
+          "Designer / Coffered",
+          "Perimeter Tray",
+          "Not Sure",
+          "Painting Preference",
+          "Select",
+          "Emulsion (Standard)",
+          "Texture / Designer",
+          "Metallic Finish",
+          "Distemper (Budget)",
+          "Not Sure",
+          "Project Details *",
+          "Send Enquiry"
+        ],
+        "images": [],
+        "headings": [
+          "Request a Free Consultation",
+          "Phone",
+          "WhatsApp",
+          "Email",
+          "Office",
+          "Get a Ceiling & Painting Quote"
+        ],
+        "reveals": [
+          "fade-right",
+          "fade-left"
+        ]
+      }
+    ],
+    "previous_export_sections": 7,
+    "canvases": [
+      "heroCanvas"
+    ],
+    "keyframes": [
+      "badgeFloat",
+      "revealLine",
+      "sInR",
+      "sUp",
+      "waPulse"
+    ],
+    "counters": [
+      "600",
+      "80000",
+      "15",
+      "100"
+    ],
+    "photo_placements": [
+      [
+        "hv-main",
+        "False Ceiling"
+      ],
+      [
+        "hv-accent",
+        "Painted Interior"
+      ],
+      [
+        "proj-img",
+        "Designer Ceiling"
+      ],
+      [
+        "proj-img",
+        "Full Painting"
+      ],
+      [
+        "proj-img",
+        "Grid Ceiling"
+      ],
+      [
+        "proj-img",
+        "Accent Wall"
+      ],
+      [
+        "proj-img",
+        "Coffered Ceiling"
+      ]
+    ]
+  }
+}

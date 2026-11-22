@@ -1,0 +1,13 @@
+Form passed: index.html
+Form passed: Contact/contact.html
+Form passed: services/Buliding_Construction.html
+Form passed: services/Building_rennovation.html
+Form passed: services/interior_designs.html
+Form passed: services/Infrastructure.html
+Form passed: services/Glass.html
+Form passed: services/falseceling.html
+Assistant passed: 320 × 568, reduced motion=False
+Assistant passed: 844 × 390, reduced motion=False
+Assistant passed: 1024 × 768, reduced motion=True
+Assistant passed: welcome invitation, suggested reply, custom answers, optional budget, and single WhatsApp handoff.
+Verified 8 forms, 54 fields, and three guided enquiry profiles.

@@ -1,0 +1,740 @@
+{
+  "passed_layout_profiles": 121,
+  "interactions": {
+    "motion-enabled counter checks": 32,
+    "faq questions": 41,
+    "filter selections": 16,
+    "viewers opened and dismissed": 60,
+    "animated counter targets": 28,
+    "calculator choices": 10
+  },
+  "failures": [],
+  "profiles": [
+    {
+      "path": "index.html",
+      "width": 320,
+      "height": 844,
+      "document_height": 19047
+    },
+    {
+      "path": "about/about.html",
+      "width": 320,
+      "height": 844,
+      "document_height": 15012
+    },
+    {
+      "path": "services/All_services.html",
+      "width": 320,
+      "height": 844,
+      "document_height": 13788
+    },
+    {
+      "path": "Projects/projects.html",
+      "width": 320,
+      "height": 844,
+      "document_height": 15304
+    },
+    {
+      "path": "Contact/contact.html",
+      "width": 320,
+      "height": 844,
+      "document_height": 6729
+    },
+    {
+      "path": "services/Buliding_Construction.html",
+      "width": 320,
+      "height": 844,
+      "document_height": 19489
+    },
+    {
+      "path": "services/Building_rennovation.html",
+      "width": 320,
+      "height": 844,
+      "document_height": 20504
+    },
+    {
+      "path": "services/interior_designs.html",
+      "width": 320,
+      "height": 844,
+      "document_height": 13379
+    },
+    {
+      "path": "services/Infrastructure.html",
+      "width": 320,
+      "height": 844,
+      "document_height": 19559
+    },
+    {
+      "path": "services/Glass.html",
+      "width": 320,
+      "height": 844,
+      "document_height": 19488
+    },
+    {
+      "path": "services/falseceling.html",
+      "width": 320,
+      "height": 844,
+      "document_height": 22957
+    },
+    {
+      "path": "index.html",
+      "width": 360,
+      "height": 844,
+      "document_height": 18476
+    },
+    {
+      "path": "about/about.html",
+      "width": 360,
+      "height": 844,
+      "document_height": 14021
+    },
+    {
+      "path": "services/All_services.html",
+      "width": 360,
+      "height": 844,
+      "document_height": 12862
+    },
+    {
+      "path": "Projects/projects.html",
+      "width": 360,
+      "height": 844,
+      "document_height": 14462
+    },
+    {
+      "path": "Contact/contact.html",
+      "width": 360,
+      "height": 844,
+      "document_height": 6327
+    },
+    {
+      "path": "services/Buliding_Construction.html",
+      "width": 360,
+      "height": 844,
+      "document_height": 18851
+    },
+    {
+      "path": "services/Building_rennovation.html",
+      "width": 360,
+      "height": 844,
+      "document_height": 19348
+    },
+    {
+      "path": "services/interior_designs.html",
+      "width": 360,
+      "height": 844,
+      "document_height": 12723
+    },
+    {
+      "path": "services/Infrastructure.html",
+      "width": 360,
+      "height": 844,
+      "document_height": 18888
+    },
+    {
+      "path": "services/Glass.html",
+      "width": 360,
+      "height": 844,
+      "document_height": 18120
+    },
+    {
+      "path": "services/falseceling.html",
+      "width": 360,
+      "height": 844,
+      "document_height": 21581
+    },
+    {
+      "path": "index.html",
+      "width": 390,
+      "height": 844,
+      "document_height": 18168
+    },
+    {
+      "path": "about/about.html",
+      "width": 390,
+      "height": 844,
+      "document_height": 13572
+    },
+    {
+      "path": "services/All_services.html",
+      "width": 390,
+      "height": 844,
+      "document_height": 12194
+    },
+    {
+      "path": "Projects/projects.html",
+      "width": 390,
+      "height": 844,
+      "document_height": 13936
+    },
+    {
+      "path": "Contact/contact.html",
+      "width": 390,
+      "height": 844,
+      "document_height": 6188
+    },
+    {
+      "path": "services/Buliding_Construction.html",
+      "width": 390,
+      "height": 844,
+      "document_height": 18539
+    },
+    {
+      "path": "services/Building_rennovation.html",
+      "width": 390,
+      "height": 844,
+      "document_height": 18756
+    },
+    {
+      "path": "services/interior_designs.html",
+      "width": 390,
+      "height": 844,
+      "document_height": 12427
+    },
+    {
+      "path": "services/Infrastructure.html",
+      "width": 390,
+      "height": 844,
+      "document_height": 18397
+    },
+    {
+      "path": "services/Glass.html",
+      "width": 390,
+      "height": 844,
+      "document_height": 17634
+    },
+    {
+      "path": "services/falseceling.html",
+      "width": 390,
+      "height": 844,
+      "document_height": 20945
+    },
+    {
+      "path": "index.html",
+      "width": 430,
+      "height": 844,
+      "document_height": 17943
+    },
+    {
+      "path": "about/about.html",
+      "width": 430,
+      "height": 844,
+      "document_height": 13120
+    },
+    {
+      "path": "services/All_services.html",
+      "width": 430,
+      "height": 844,
+      "document_height": 11820
+    },
+    {
+      "path": "Projects/projects.html",
+      "width": 430,
+      "height": 844,
+      "document_height": 13448
+    },
+    {
+      "path": "Contact/contact.html",
+      "width": 430,
+      "height": 844,
+      "document_height": 6073
+    },
+    {
+      "path": "services/Buliding_Construction.html",
+      "width": 430,
+      "height": 844,
+      "document_height": 18105
+    },
+    {
+      "path": "services/Building_rennovation.html",
+      "width": 430,
+      "height": 844,
+      "document_height": 18211
+    },
+    {
+      "path": "services/interior_designs.html",
+      "width": 430,
+      "height": 844,
+      "document_height": 12099
+    },
+    {
+      "path": "services/Infrastructure.html",
+      "width": 430,
+      "height": 844,
+      "document_height": 17975
+    },
+    {
+      "path": "services/Glass.html",
+      "width": 430,
+      "height": 844,
+      "document_height": 17189
+    },
+    {
+      "path": "services/falseceling.html",
+      "width": 430,
+      "height": 844,
+      "document_height": 20421
+    },
+    {
+      "path": "index.html",
+      "width": 768,
+      "height": 844,
+      "document_height": 14131
+    },
+    {
+      "path": "about/about.html",
+      "width": 768,
+      "height": 844,
+      "document_height": 9892
+    },
+    {
+      "path": "services/All_services.html",
+      "width": 768,
+      "height": 844,
+      "document_height": 9514
+    },
+    {
+      "path": "Projects/projects.html",
+      "width": 768,
+      "height": 844,
+      "document_height": 9213
+    },
+    {
+      "path": "Contact/contact.html",
+      "width": 768,
+      "height": 844,
+      "document_height": 4933
+    },
+    {
+      "path": "services/Buliding_Construction.html",
+      "width": 768,
+      "height": 844,
+      "document_height": 14506
+    },
+    {
+      "path": "services/Building_rennovation.html",
+      "width": 768,
+      "height": 844,
+      "document_height": 15477
+    },
+    {
+      "path": "services/interior_designs.html",
+      "width": 768,
+      "height": 844,
+      "document_height": 10571
+    },
+    {
+      "path": "services/Infrastructure.html",
+      "width": 768,
+      "height": 844,
+      "document_height": 14178
+    },
+    {
+      "path": "services/Glass.html",
+      "width": 768,
+      "height": 844,
+      "document_height": 14115
+    },
+    {
+      "path": "services/falseceling.html",
+      "width": 768,
+      "height": 844,
+      "document_height": 16656
+    },
+    {
+      "path": "index.html",
+      "width": 992,
+      "height": 900,
+      "document_height": 10673
+    },
+    {
+      "path": "about/about.html",
+      "width": 992,
+      "height": 900,
+      "document_height": 7825
+    },
+    {
+      "path": "services/All_services.html",
+      "width": 992,
+      "height": 900,
+      "document_height": 6975
+    },
+    {
+      "path": "Projects/projects.html",
+      "width": 992,
+      "height": 900,
+      "document_height": 7475
+    },
+    {
+      "path": "Contact/contact.html",
+      "width": 992,
+      "height": 900,
+      "document_height": 3551
+    },
+    {
+      "path": "services/Buliding_Construction.html",
+      "width": 992,
+      "height": 900,
+      "document_height": 10874
+    },
+    {
+      "path": "services/Building_rennovation.html",
+      "width": 992,
+      "height": 900,
+      "document_height": 11868
+    },
+    {
+      "path": "services/interior_designs.html",
+      "width": 992,
+      "height": 900,
+      "document_height": 7912
+    },
+    {
+      "path": "services/Infrastructure.html",
+      "width": 992,
+      "height": 900,
+      "document_height": 10674
+    },
+    {
+      "path": "services/Glass.html",
+      "width": 992,
+      "height": 900,
+      "document_height": 11100
+    },
+    {
+      "path": "services/falseceling.html",
+      "width": 992,
+      "height": 900,
+      "document_height": 12588
+    },
+    {
+      "path": "index.html",
+      "width": 1024,
+      "height": 900,
+      "document_height": 10664
+    },
+    {
+      "path": "about/about.html",
+      "width": 1024,
+      "height": 900,
+      "document_height": 7825
+    },
+    {
+      "path": "services/All_services.html",
+      "width": 1024,
+      "height": 900,
+      "document_height": 6975
+    },
+    {
+      "path": "Projects/projects.html",
+      "width": 1024,
+      "height": 900,
+      "document_height": 7475
+    },
+    {
+      "path": "Contact/contact.html",
+      "width": 1024,
+      "height": 900,
+      "document_height": 3551
+    },
+    {
+      "path": "services/Buliding_Construction.html",
+      "width": 1024,
+      "height": 900,
+      "document_height": 10874
+    },
+    {
+      "path": "services/Building_rennovation.html",
+      "width": 1024,
+      "height": 900,
+      "document_height": 11868
+    },
+    {
+      "path": "services/interior_designs.html",
+      "width": 1024,
+      "height": 900,
+      "document_height": 7942
+    },
+    {
+      "path": "services/Infrastructure.html",
+      "width": 1024,
+      "height": 900,
+      "document_height": 10626
+    },
+    {
+      "path": "services/Glass.html",
+      "width": 1024,
+      "height": 900,
+      "document_height": 11131
+    },
+    {
+      "path": "services/falseceling.html",
+      "width": 1024,
+      "height": 900,
+      "document_height": 12588
+    },
+    {
+      "path": "index.html",
+      "width": 1280,
+      "height": 900,
+      "document_height": 10585
+    },
+    {
+      "path": "about/about.html",
+      "width": 1280,
+      "height": 900,
+      "document_height": 7660
+    },
+    {
+      "path": "services/All_services.html",
+      "width": 1280,
+      "height": 900,
+      "document_height": 6702
+    },
+    {
+      "path": "Projects/projects.html",
+      "width": 1280,
+      "height": 900,
+      "document_height": 7188
+    },
+    {
+      "path": "Contact/contact.html",
+      "width": 1280,
+      "height": 900,
+      "document_height": 3443
+    },
+    {
+      "path": "services/Buliding_Construction.html",
+      "width": 1280,
+      "height": 900,
+      "document_height": 10688
+    },
+    {
+      "path": "services/Building_rennovation.html",
+      "width": 1280,
+      "height": 900,
+      "document_height": 11084
+    },
+    {
+      "path": "services/interior_designs.html",
+      "width": 1280,
+      "height": 900,
+      "document_height": 7889
+    },
+    {
+      "path": "services/Infrastructure.html",
+      "width": 1280,
+      "height": 900,
+      "document_height": 10505
+    },
+    {
+      "path": "services/Glass.html",
+      "width": 1280,
+      "height": 900,
+      "document_height": 10772
+    },
+    {
+      "path": "services/falseceling.html",
+      "width": 1280,
+      "height": 900,
+      "document_height": 12208
+    },
+    {
+      "path": "index.html",
+      "width": 1440,
+      "height": 900,
+      "document_height": 10578
+    },
+    {
+      "path": "about/about.html",
+      "width": 1440,
+      "height": 900,
+      "document_height": 7421
+    },
+    {
+      "path": "services/All_services.html",
+      "width": 1440,
+      "height": 900,
+      "document_height": 6592
+    },
+    {
+      "path": "Projects/projects.html",
+      "width": 1440,
+      "height": 900,
+      "document_height": 6951
+    },
+    {
+      "path": "Contact/contact.html",
+      "width": 1440,
+      "height": 900,
+      "document_height": 3443
+    },
+    {
+      "path": "services/Buliding_Construction.html",
+      "width": 1440,
+      "height": 900,
+      "document_height": 10612
+    },
+    {
+      "path": "services/Building_rennovation.html",
+      "width": 1440,
+      "height": 900,
+      "document_height": 10899
+    },
+    {
+      "path": "services/interior_designs.html",
+      "width": 1440,
+      "height": 900,
+      "document_height": 7843
+    },
+    {
+      "path": "services/Infrastructure.html",
+      "width": 1440,
+      "height": 900,
+      "document_height": 10459
+    },
+    {
+      "path": "services/Glass.html",
+      "width": 1440,
+      "height": 900,
+      "document_height": 10836
+    },
+    {
+      "path": "services/falseceling.html",
+      "width": 1440,
+      "height": 900,
+      "document_height": 12088
+    },
+    {
+      "path": "index.html",
+      "width": 1920,
+      "height": 900,
+      "document_height": 10553
+    },
+    {
+      "path": "about/about.html",
+      "width": 1920,
+      "height": 900,
+      "document_height": 7421
+    },
+    {
+      "path": "services/All_services.html",
+      "width": 1920,
+      "height": 900,
+      "document_height": 6592
+    },
+    {
+      "path": "Projects/projects.html",
+      "width": 1920,
+      "height": 900,
+      "document_height": 6951
+    },
+    {
+      "path": "Contact/contact.html",
+      "width": 1920,
+      "height": 900,
+      "document_height": 3443
+    },
+    {
+      "path": "services/Buliding_Construction.html",
+      "width": 1920,
+      "height": 900,
+      "document_height": 10612
+    },
+    {
+      "path": "services/Building_rennovation.html",
+      "width": 1920,
+      "height": 900,
+      "document_height": 10899
+    },
+    {
+      "path": "services/interior_designs.html",
+      "width": 1920,
+      "height": 900,
+      "document_height": 7765
+    },
+    {
+      "path": "services/Infrastructure.html",
+      "width": 1920,
+      "height": 900,
+      "document_height": 10390
+    },
+    {
+      "path": "services/Glass.html",
+      "width": 1920,
+      "height": 900,
+      "document_height": 10740
+    },
+    {
+      "path": "services/falseceling.html",
+      "width": 1920,
+      "height": 900,
+      "document_height": 12000
+    },
+    {
+      "path": "index.html",
+      "width": 844,
+      "height": 390,
+      "document_height": 14150
+    },
+    {
+      "path": "about/about.html",
+      "width": 844,
+      "height": 390,
+      "document_height": 9743
+    },
+    {
+      "path": "services/All_services.html",
+      "width": 844,
+      "height": 390,
+      "document_height": 9430
+    },
+    {
+      "path": "Projects/projects.html",
+      "width": 844,
+      "height": 390,
+      "document_height": 9088
+    },
+    {
+      "path": "Contact/contact.html",
+      "width": 844,
+      "height": 390,
+      "document_height": 4933
+    },
+    {
+      "path": "services/Buliding_Construction.html",
+      "width": 844,
+      "height": 390,
+      "document_height": 14270
+    },
+    {
+      "path": "services/Building_rennovation.html",
+      "width": 844,
+      "height": 390,
+      "document_height": 15273
+    },
+    {
+      "path": "services/interior_designs.html",
+      "width": 844,
+      "height": 390,
+      "document_height": 10421
+    },
+    {
+      "path": "services/Infrastructure.html",
+      "width": 844,
+      "height": 390,
+      "document_height": 13985
+    },
+    {
+      "path": "services/Glass.html",
+      "width": 844,
+      "height": 390,
+      "document_height": 13866
+    },
+    {
+      "path": "services/falseceling.html",
+      "width": 844,
+      "height": 390,
+      "document_height": 16412
+    }
+  ]
+}

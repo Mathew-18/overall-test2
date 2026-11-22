@@ -1,0 +1,285 @@
+{
+  "logo": "Contact/logo.png",
+  "navigation": {
+    "Home": "index.html",
+    "About": "about/about.html",
+    "Services": "services/All_services.html",
+    "Projects": "Projects/projects.html",
+    "Contact": "Contact/contact.html"
+  },
+  "services": {
+    "Building Construction": "services/Buliding_Construction.html",
+    "Building Renovation": "services/Building_rennovation.html",
+    "Interior Design": "services/interior_designs.html",
+    "Office Infrastructure": "services/Infrastructure.html",
+    "Glass Partitions": "services/Glass.html",
+    "False Ceiling & Painting": "services/falseceling.html"
+  },
+  "contact": {
+    "phone": "+919042356696",
+    "phone_label": "+91 90423 56696",
+    "email": "info@dhconstruction.in",
+    "whatsapp": "https://wa.me/919042356696"
+  },
+  "pages": {
+    "index.html": {
+      "description": "Building timeless spaces with precision & passion. 15+ years of trusted construction, renovation and interior excellence across Chennai.",
+      "location": "Pallavaram, Chennai",
+      "sections": {
+        "contact": "Contact"
+      },
+      "meta": {
+        "title": "Construction, Renovation & Interiors in Chennai | DH Construction",
+        "description": "Explore construction, renovation and interior services for homes and workplaces in Chennai. Discuss your project with DH Construction."
+      },
+      "copyright": "© DH Construction. All Rights Reserved.",
+      "specialties": {
+        "False Ceiling": "services/falseceling.html",
+        "Glass Partitions": "services/Glass.html",
+        "Vinyl Flooring": "services/All_services.html#flooring",
+        "Renovation": "services/Building_rennovation.html",
+        "Interior Design": "services/interior_designs.html"
+      }
+    },
+    "about/about.html": {
+      "description": "Chennai's trusted renovation partner for over 15 years. Quality craftsmanship, transparent pricing, and on-time delivery — every time.",
+      "location": "Chennai, Tamil Nadu, India",
+      "hours": "Mon-Sat: 9AM - 7PM",
+      "meta": {
+        "title": "About DH Construction in Chennai | DH Construction",
+        "description": "Meet DH Construction and explore the approach to residential construction, renovation, finishes and workplace interiors in Chennai."
+      },
+      "copyright": "© 2024 DH Construction. All Rights Reserved. | Built with ♥ in Chennai",
+      "specialties": {
+        "Kitchen Renovation": "services/All_services.html#kitchen",
+        "Bathroom Remodeling": "services/All_services.html#bathroom",
+        "Complete Home Makeover": "services/All_services.html#home",
+        "Commercial Renovation": "services/All_services.html#commercial",
+        "Interior Design": "services/interior_designs.html"
+      }
+    },
+    "services/All_services.html": {
+      "description": "Expert building renovation and remodeling services in Chennai. Trusted by 200+ homeowners and businesses for quality craftsmanship and reliable delivery.",
+      "location": "Chennai, Tamil Nadu, India",
+      "footer_id": "contact",
+      "hours": "Mon–Sat: 8 AM – 7 PM",
+      "sections": {
+        "process": "Process",
+        "home": "Home Renovation",
+        "kitchen": "Kitchen Remodeling",
+        "bathroom": "Bathroom Renovation",
+        "commercial": "Commercial Renovation",
+        "interior": "Interior Redesign",
+        "flooring": "Flooring & Tiling"
+      },
+      "meta": {
+        "title": "Construction & Renovation Services in Chennai | DH Construction",
+        "description": "Compare six building and fit-out services, including renovations, interiors, office infrastructure, partitions, ceilings and painting."
+      },
+      "copyright": "© 2024 DH Construction. All Rights Reserved. | Expert Renovation Services in Chennai",
+      "specialties": {
+        "Home Renovation": "services/All_services.html#home",
+        "Kitchen Remodeling": "services/All_services.html#kitchen",
+        "Bathroom Renovation": "services/All_services.html#bathroom",
+        "Commercial Renovation": "services/All_services.html#commercial",
+        "Interior Redesign": "services/All_services.html#interior",
+        "Flooring & Tiling": "services/All_services.html#flooring"
+      }
+    },
+    "Projects/projects.html": {
+      "description": "Expert building renovation and remodeling services in Chennai. Trusted by 200+ homeowners and businesses for quality craftsmanship and reliable delivery.",
+      "location": "Chennai, Tamil Nadu, India",
+      "footer_id": "contact",
+      "hours": "Mon–Sat: 8 AM – 7 PM",
+      "sections": {
+        "process": "Process",
+        "projects": "Projects"
+      },
+      "meta": {
+        "title": "Project Portfolio & Design References | DH Construction",
+        "description": "Browse the original DH Construction project portfolio, renovation categories, scope details and project process in Chennai."
+      },
+      "copyright": "© 2024 DH Construction. All Rights Reserved. | Expert Renovation Services in Chennai",
+      "specialties": {
+        "Home Renovation": "services/All_services.html#home",
+        "Kitchen Remodeling": "services/All_services.html#kitchen",
+        "Bathroom Renovation": "services/All_services.html#bathroom",
+        "Commercial Renovation": "services/All_services.html#commercial",
+        "Interior Redesign": "services/All_services.html#interior",
+        "Flooring & Tiling": "services/All_services.html#flooring"
+      }
+    },
+    "Contact/contact.html": {
+      "description": "Expert building construction, renovation and interior services in Chennai. Trusted by 200+ homeowners and businesses for quality craftsmanship and reliable delivery.",
+      "location": "Chennai, Tamil Nadu, India",
+      "footer_id": "footer",
+      "hours": "Mon–Sat: 8 AM – 7 PM",
+      "meta": {
+        "title": "Contact DH Construction | DH Construction",
+        "description": "Contact the Chennai team by phone, email or WhatsApp. Share the location, scope and timing of a construction or renovation enquiry."
+      },
+      "copyright": "© 2024 DH Construction. All Rights Reserved. | Expert Construction & Renovation Services in Chennai",
+      "specialties": {
+        "Building Construction": "services/Buliding_Construction.html",
+        "Building Renovation": "services/Building_rennovation.html",
+        "Interior Design": "services/interior_designs.html",
+        "Office Infrastructure": "services/Infrastructure.html",
+        "Glass Partitions": "services/Glass.html",
+        "False Ceiling": "services/falseceling.html"
+      }
+    },
+    "services/Buliding_Construction.html": {
+      "description": "Building timeless spaces with precision and passion. Your trusted partner for construction, renovation, and interior solutions in Chennai for over 15 years.",
+      "location": "Pallavaram, Chennai – 600043",
+      "sections": {
+        "about": "About Us",
+        "services": "Service details",
+        "projects": "Projects",
+        "gallery": "Gallery",
+        "contact": "Contact"
+      },
+      "meta": {
+        "title": "Building Construction in Chennai | DH Construction",
+        "description": "Explore new-build planning, structural work and finishing stages for a residential or commercial building in Chennai."
+      },
+      "copyright": "© 2025 DH Construction. All Rights Reserved. | Built with ♥ in Chennai",
+      "specialties": {
+        "Building Construction": "services/Buliding_Construction.html",
+        "Building Renovation": "services/Building_rennovation.html",
+        "Interior Design": "services/interior_designs.html",
+        "Office Infrastructure": "services/Infrastructure.html",
+        "Glass Partitions": "services/Glass.html",
+        "False Ceiling": "services/falseceling.html"
+      }
+    },
+    "services/Building_rennovation.html": {
+      "description": "Expert building renovation and remodeling services in Chennai. Transforming homes and commercial spaces with 15+ years of experience, premium materials, and dedicated craftsmanship.",
+      "location": "Pallavaram, Chennai – 600043",
+      "sections": {
+        "about": "About",
+        "services": "Service details",
+        "process": "Process",
+        "projects": "Projects",
+        "contact": "Contact"
+      },
+      "meta": {
+        "title": "Building Renovation in Chennai | DH Construction",
+        "description": "Plan a home or commercial renovation, from repairs and services coordination to kitchen, bathroom and room finishes."
+      },
+      "copyright": "© 2025 DH Construction. All Rights Reserved. | Expert Renovation Services in Chennai",
+      "specialties": {
+        "Full Home Renovation": "services/All_services.html#home",
+        "Kitchen Remodeling": "services/All_services.html#kitchen",
+        "Bathroom Makeover": "services/All_services.html#bathroom",
+        "Commercial Renovation": "services/All_services.html#commercial",
+        "False Ceiling & Painting": "services/falseceling.html",
+        "Flooring & Tiling": "services/All_services.html#flooring"
+      }
+    },
+    "services/interior_designs.html": {
+      "description": "Premium interior design & fit-out solutions in Chennai. Transforming spaces with 15+ years of experience, skilled craftsmanship, and a passion for perfection.",
+      "location": "Pallavaram, Chennai 600043",
+      "sections": {
+        "spaces": "Interior spaces",
+        "process": "Our Process",
+        "testimonials": "Reviews",
+        "faq": "FAQ",
+        "contact": "Contact"
+      },
+      "meta": {
+        "title": "Interior Design & Fit-Out in Chennai | DH Construction",
+        "description": "Explore space planning, fitted storage, material choices and room layouts for a residential or commercial interior."
+      },
+      "copyright": "© 2025 DH Construction. All rights reserved. | Interior Design & Fit-Out Specialists in Chennai",
+      "specialties": {
+        "Office Fit-Out": "services/interior_designs.html#spaces",
+        "Residential Interiors": "services/interior_designs.html#spaces",
+        "Retail Design": "services/interior_designs.html#spaces",
+        "False Ceiling": "services/falseceling.html",
+        "Glass Partitions": "services/Glass.html",
+        "Modular Kitchen": "services/interior_designs.html#spaces"
+      }
+    },
+    "services/Infrastructure.html": {
+      "description": "Chennai's trusted office infrastructure & fit-out partner. 15+ years of delivering productive workspaces for startups, SMEs, and enterprises.",
+      "location": "Pallavaram, Chennai 600043",
+      "sections": {
+        "services": "Service details",
+        "process": "Our Process",
+        "projects": "Projects",
+        "testimonials": "Reviews",
+        "faq": "FAQ",
+        "contact": "Contact"
+      },
+      "meta": {
+        "title": "Office Infrastructure & Fit-Out | DH Construction",
+        "description": "Plan an office layout, from partitions and workstations to coordinated lighting, flooring and building services."
+      },
+      "copyright": "© 2025 DH Construction. All rights reserved. | Office Infrastructure & Fit-Out Specialists in Chennai",
+      "specialties": {
+        "Glass Partitions": "services/Glass.html",
+        "Gypsum Partitions": "services/Infrastructure.html#services",
+        "False Ceiling": "services/falseceling.html",
+        "Flooring": "services/All_services.html#flooring",
+        "Electrical & Lighting": "services/Infrastructure.html#services",
+        "Workstations": "services/Infrastructure.html#services"
+      }
+    },
+    "services/Glass.html": {
+      "description": "Chennai's trusted partition specialists. 500+ glass and gypsum partition installations with 15+ years of precision workmanship.",
+      "location": "Pallavaram, Chennai 600043",
+      "sections": {
+        "types": "Partition types",
+        "compare": "Compare",
+        "specs": "Specifications",
+        "industries": "Industries",
+        "timeline": "Timeline",
+        "projects": "Projects",
+        "faq": "FAQ"
+      },
+      "meta": {
+        "title": "Glass & Gypsum Partitions | DH Construction",
+        "description": "Compare partition types for light, privacy and flexibility, and discuss doors, access and finishes for your space."
+      },
+      "copyright": "© 2025 DH Construction. All rights reserved. | Glass & Gypsum Partition Specialists in Chennai",
+      "specialties": {
+        "Frameless Glass": "services/Glass.html#types",
+        "Framed Glass": "services/Glass.html#types",
+        "Sliding Glass": "services/Glass.html#types",
+        "Gypsum Board": "services/Glass.html#types",
+        "Acoustic Gypsum": "services/Glass.html#types",
+        "Demountable": "services/Glass.html#types"
+      }
+    },
+    "services/falseceling.html": {
+      "description": "Chennai's trusted false ceiling and painting specialists. 600+ projects with flawless joint-free finishes and premium paint work.",
+      "location": "Pallavaram, Chennai 600043",
+      "sections": {
+        "ceilings": "Ceiling types",
+        "painting": "Painting Services",
+        "workflow": "Workflow",
+        "materials": "Materials",
+        "estimator": "Cost Calculator",
+        "faq": "FAQ"
+      },
+      "meta": {
+        "title": "False Ceilings & Painting in Chennai | DH Construction",
+        "description": "Explore ceiling systems and paint finishes, and use the indicative cost calculator to prepare your enquiry."
+      },
+      "copyright": "© 2025 DH Construction. All rights reserved. | False Ceiling & Painting Specialists in Chennai",
+      "specialties": {
+        "Grid Ceiling": "services/falseceling.html#ceilings",
+        "Flush Ceiling": "services/falseceling.html#ceilings",
+        "Coffered": "services/falseceling.html#ceilings",
+        "Perimeter Tray": "services/falseceling.html#ceilings",
+        "Curved / Arched": "services/falseceling.html#ceilings"
+      }
+    }
+  },
+  "social_profiles": {
+    "Facebook": null,
+    "Instagram": null,
+    "YouTube": null,
+    "LinkedIn": null
+  }
+}
